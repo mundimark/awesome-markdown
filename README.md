@@ -64,10 +64,15 @@ _A strongly specified, highly compatible implementation of Markdown_
 ## "Real World" Book Examples
 
 - [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2)
-- [Pro Git, 2nd Edition](http://git-scm.com/book) - [:ocotocat:](https://github.com/progit/progit2)
+- [Pro Git, 2nd Edition](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2)
 - [PHP - The Right Way](http://www.phptherightway.com)- [:octocat:](https://github.com/codeguy/php-the-right-way)
 - [The Front-End Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 
+
+## Book Services
+
+- [GitBook](https://www.gitbook.com) - [:octocat:](https://github.com/GitbookIO/gitbook) - write and publish books with Markdown and Git
+- [Bitbooks](http://bitbooks.cc), [Franklin :octocat:](https://github.com/bryanbraun/franklin) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
 
 ## Alternatives
 
