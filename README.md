@@ -19,17 +19,17 @@ Documentation
 
 ## CommonMark
 
-__A strongly specified, highly compatible implementation of Markdown__
+_A strongly specified, highly compatible implementation of Markdown_
 
 - [commonmark.org](http://commonmark.org)
 - [Spec](http://spec.commonmark.org)
-- [Code :github:](https://github.com/jgm/CommonMark) - spec and reference code in JavaScript and C
+- [Code :octocat:](https://github.com/jgm/CommonMark) - spec and reference code in JavaScript and C
 - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark (live) in your browser
 - [Talk](http://talk.commonmark.org)
 
 ## Alternatives
 
-__More lightweight markup languages__
+_More lightweight markup languages_
 
 - [Wikitext, Wikicode](http://en.wikipedia.org/wiki/Help:Wiki_markup) - wiki markup used by Wikipedia and friends
    - [Creole](http://en.wikipedia.org/wiki/Creole_(markup))  - "Standardized" core Wikitext markup
