@@ -74,7 +74,7 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 ## Open Data "Auto-Build" Book Examples
 
-- [Free World Beer Book](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book) - Work-In-Progress; auto-build using a static site generator and the beer.db and markdown templates
+- [Free World Beer Book](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book) - work-in-progress; auto-build using the beer.db and markdown templates w/ a static site generator
     - [Templates :octocat:](https://github.com/book-templates/beer) 
 
 
