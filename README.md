@@ -2,6 +2,8 @@
 
 A collection of awesome markdown goodies, libraries, services, tools, guides, books, etc.
 
+Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+
 ---
 ---
 
@@ -35,14 +37,14 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 ## Markdown Libraries
 
-- [kramdown](http://kramdown.gettalong.org) - [:octocat:](https://github.com/gettalong/kramdown) - markdown library (in Ruby)
+- [kramdown](http://kramdown.gettalong.org) - [:octocat:](https://github.com/gettalong/kramdown), [:gem:](https://rubygems.org/gems/kramdown) - markdown library (in Ruby)
 
 
 ## Markdown Tools
 
 - [Pandoc](http://pandoc.org) - [:octocat:](https://github.com/jgm/pandoc) - a universal document converter (in Haskell)
-- [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll) - transform your plain text into static websites and blogs (in Ruby)
-- [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman/middleman) - makes developing websites simple (in Ruby)
+- [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - transform your plain text into static websites and blogs (in Ruby)
+- [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman/middleman), [:gem:](https://rubygems.org/gems/middleman) - makes developing websites simple (in Ruby)
 
 
 ### Markdown to Website / Blog
@@ -51,20 +53,20 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 ### Markdown to Presentation / Slideshow
 
-- [Slide Show (S9)](http://slideshow-s9.github.io) - [:octocat:](https://github.com/slideshow-s9) - a free web alternative to PowerPoint and Keynote in Ruby
+- [Slide Show (S9)](http://slideshow-s9.github.io) - [:octocat:](https://github.com/slideshow-s9), [:gem:](https://rubygems.org/gems/slideshow) - a free web alternative to PowerPoint and Keynote in Ruby
     - [Templates :octocat:](https://github.com/slideshow-templates)
 
 ### Markdown to Books
 
-- [Hyper Book (H9) :octocat:](https://github.com/hybook)
+- [Hyper Book (H9) :octocat:](https://github.com/hybook), [:gem:](https://rubygems.org/gems/hybook)
     - [Templates :octocat:](https://github.com/book-templates)
 
 
 
 ## "Real World" Book Examples
 
-- [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2)
-- [Pro Git, 2nd Edition](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2)
+- [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
+- [Pro Git, 2nd Edition](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2) - note: 1st edition in markdown, 2nd edition in asciidoc
 - [PHP - The Right Way](http://www.phptherightway.com)- [:octocat:](https://github.com/codeguy/php-the-right-way)
 - [The Front-End Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 
@@ -72,7 +74,9 @@ _A strongly specified, highly compatible implementation of Markdown_
 ## Book Services
 
 - [GitBook](https://www.gitbook.com) - [:octocat:](https://github.com/GitbookIO/gitbook) - write and publish books with Markdown and Git
-- [Bitbooks](http://bitbooks.cc), [Franklin :octocat:](https://github.com/bryanbraun/franklin) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
+- [Bitbooks](http://bitbooks.cc) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
+    - [Franklin :octocat:](https://github.com/bryanbraun/franklin) 
+
 
 ## Alternatives
 
