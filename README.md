@@ -9,7 +9,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Markdown
 
-- [Markdown](http://daringfireball.net/projects/markdown)
+- [Markdown](http://daringfireball.net/projects/markdown) - original Markdown syntax write-up and processor in Perl by John Gruber; no longer maintained (last update in Dec 2004)
 - [Talk](https://pairlist6.pair.net/mailman/listinfo/markdown-discuss) - markdown-discuss mailing list
 
 Documentation
@@ -19,7 +19,7 @@ Documentation
 
 ## Markdown Syntax Extensions
 
-- [MultiMarkdown](http://fletcherpenney.net/multimarkdown) - adds footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
+- [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
 
 
 ## CommonMark
@@ -65,7 +65,8 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 - [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2)
 - [Pro Git, 2nd Edition](http://git-scm.com/book) - [:ocotocat:](https://github.com/progit/progit2)
-- [PHP The Right Way] - [:octocat:](https://github.com/codeguy/php-the-right-way)
+- [PHP - The Right Way](http://www.phptherightway.com)- [:octocat:](https://github.com/codeguy/php-the-right-way)
+- [The Front-End Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 
 
 ## Alternatives
