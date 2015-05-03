@@ -63,12 +63,19 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 
 
-## "Real World" Book Examples
+## Real World "Hand-Written" Book Examples
 
 - [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
 - [Pro Git, 2nd Edition](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2) - note: 1st edition in markdown, 2nd edition in asciidoc
-- [PHP - The Right Way](http://www.phptherightway.com)- [:octocat:](https://github.com/codeguy/php-the-right-way)
+- [PHP - The Right Way](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way)
 - [The Front-End Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
+- [Go Bootcamp](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
+
+
+## Open Data "Auto-Build" Book Examples
+
+- [Free World Beer Book](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book) - Work-In-Progress; auto-build using a static site generator and the beer.db and markdown templates
+    - [Templates :octocat:](https://github.com/book-templates/beer) 
 
 
 ## Book Services
