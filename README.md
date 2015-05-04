@@ -51,6 +51,11 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 
 
+### Markdown to Email
+
+- [Markdown Here](http://markdown-here.com/) - [:octocat:](https://github.com/adam-p/markdown-here) - A browser extension for rendering email written in Markdown. Available for Chrome, Firefox, Safari, Thunderbird, [and more](http://markdown-here.com/get.html). Besides email, it also works with Evernote, Google Groups, Blogger, [and more](https://github.com/adam-p/markdown-here/wiki/Compatibility).
+
+
 ### Markdown to Presentation / Slideshow
 
 - [Slide Show (S9)](http://slideshow-s9.github.io) - [:octocat:](https://github.com/slideshow-s9), [:gem:](https://rubygems.org/gems/slideshow) - a free web alternative to PowerPoint and Keynote in Ruby
