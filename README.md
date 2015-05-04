@@ -53,7 +53,7 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 ### Markdown to Email
 
-- [Markdown Here](http://markdown-here.com/) - [:octocat:](https://github.com/adam-p/markdown-here) - A browser extension for rendering email written in Markdown. Available for Chrome, Firefox, Safari, Thunderbird, [and more](http://markdown-here.com/get.html). Besides email, it also works with Evernote, Google Groups, Blogger, [and more](https://github.com/adam-p/markdown-here/wiki/Compatibility).
+- [Markdown Here](http://markdown-here.com) - [:octocat:](https://github.com/adam-p/markdown-here) - a browser extension for rendering email written in Markdown; available for Chrome, Firefox, Safari, Thunderbird, and more; besides email also works with Evernote, Google Groups, Blogger, and more
 
 
 ### Markdown to Presentation / Slideshow
