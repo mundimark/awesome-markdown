@@ -61,11 +61,55 @@ _A strongly specified, highly compatible implementation of Markdown_
 - [Slide Show (S9)](http://slideshow-s9.github.io) - [:octocat:](https://github.com/slideshow-s9), [:gem:](https://rubygems.org/gems/slideshow) - a free web alternative to PowerPoint and Keynote in Ruby
     - [Templates :octocat:](https://github.com/slideshow-templates)
 
+### Markdown to Portable Document Format (PDF)
+
+- [](https://github.com/alanshaw/markdown-pdf :octocat:), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) - Node module (in JavaScript) that converts Markdown 
+files to PDFs
+
+
 ### Markdown to Books
 
 - [Hyper Book (H9) :octocat:](https://github.com/hybook), [:gem:](https://rubygems.org/gems/hybook)
     - [Templates :octocat:](https://github.com/book-templates)
 
+
+## Convert to Markdown Tools
+
+### Microsoft Word to Markdown
+
+- [word-to-markdowm gem :octocat:](https://github.com/benbalter/word-to-markdown), [:gem:](https://rubygems.org/gems/word-to-markdown) - "liberate" content from the jail that is Microsoft Word documents; converts to plain-text Markdown
+
+### Hypertext Markup Language (HTML) to Markdown
+
+Ruby
+
+- [reverse_markdown :octocat:](https://github.com/xijo/reverse_markdown), [:gem:](https://rubygems.org/gems/reverse_markdown) - map simple HTML back into markdown
+- [html2markdown :octocat:](https://github.com/29decibel/html2markdown), [:gem:](https://rubygems.org/gems/html2markdown) - simple and flexible HTML to markdown converter
+- [hypertextmarkdown :octocat:](https://github.com/jcheatham/hypertextmarkdown), [:gem:](https://rubygems.org/gems/hypertextmarkdown) - HTML to markdown converter
+- [html2md :octocat:](https://github.com/pmorton/html2md), [:gem:](https://rubygems.org/gems/html2md) - converts basic HTML to markdown 
+- [unmarkdown :octocat:](https://github.com/soffes/unmarkdown), [:gem:](https://rubygems.org/gems/unmarkdown) - convert HTML to Markdown
+- [upmark :octocat:](https://github.com/conversation/upmark), [:gem:](https://rubygems.org/gems/upmark) - a HTML to Markdown converter
+- [remark :octocat:](https://github.com/mislav/remark) - HTML to Markdown converter in Ruby
+
+
+JavaScript / Node.js
+
+- [to-markdown :octocat:](https://github.com/domchristie/to-markdown), [(npm Package)](https://www.npmjs.com/package/to-markdown)  - a HTML to Markdown converter in JavaScript
+- [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
+ 
+Command Line Examples
+
+Pandoc
+
+~~~
+$ pandoc file.html -o file.md
+~~~
+
+kramdown
+
+~~~
+$ kramdown --input html --output kramdown file.html > file.md
+~~~
 
 
 ## Real World "Hand-Written" Book Examples
