@@ -63,8 +63,7 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 ### Markdown to Portable Document Format (PDF)
 
-- [](https://github.com/alanshaw/markdown-pdf :octocat:), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) - Node module (in JavaScript) that converts Markdown 
-files to PDFs
+- [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
 
 
 ### Markdown to Books
