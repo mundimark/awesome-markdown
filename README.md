@@ -22,6 +22,10 @@ Documentation
 ## Markdown Syntax Extensions
 
 - [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
+- SmartyPants  -   convert (c) into ?, "" into ? 
+- Emojis
+- CriticMarkup
+- GitHub Flavored Markup - @mention, to do lists w/ [ ] and [x], etc.
 
 
 ## CommonMark
@@ -40,7 +44,25 @@ _A strongly specified, highly compatible implementation of Markdown_
 - [kramdown](http://kramdown.gettalong.org) - [:octocat:](https://github.com/gettalong/kramdown), [:gem:](https://rubygems.org/gems/kramdown) - markdown library (in Ruby)
 
 
-## Markdown Tools
+## Markdown Editors
+
+_Zen Writing - leaving you alone with your thoughts and your words_
+
+### Markdown Online Editors
+
+- [Minimalist Online Markdown Editor](http://markdown.pioul.fr/) - [:octocat:](https://github.com/pioul/Minimalist-Online-Markdown-Editor)
+- [StackEdit](https://stackedit.io) - [:octocat:](https://github.com/benweet/stackedit)
+- [Markdown Note](http://writekit.github.io/markdown.note/note.html) - [:octocat:](https://github.com/writekit/markdown.note) - another simple single HTML page, server-less Markdown editor in JavaScript
+
+### Markdown Desktop Editors
+
+Windows
+
+- [Writemonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
+
+
+
+## Markdown Command Line Tools
 
 - [Pandoc](http://pandoc.org) - [:octocat:](https://github.com/jgm/pandoc) - a universal document converter (in Haskell)
 - [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - transform your plain text into static websites and blogs (in Ruby)
