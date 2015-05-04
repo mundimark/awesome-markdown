@@ -22,10 +22,10 @@ Documentation
 ## Markdown Syntax Extensions
 
 - [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
-- SmartyPants  -   convert (c) into ?, "" into ? 
-- Emojis
-- CriticMarkup
-- GitHub Flavored Markup - @mention, to do lists w/ [ ] and [x], etc.
+- [SmartyPants](http://daringfireball.net/projects/smartypants) -  convert (c) into ?, "" into ?, etc. 
+- [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com)
+- [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
+- [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ [ ] and [x], etc.
 
 
 ## CommonMark
@@ -39,9 +39,33 @@ _A strongly specified, highly compatible implementation of Markdown_
 - [Talk](http://talk.commonmark.org)
 
 
-## Markdown Libraries
+## Markdown Documentation
+
+### Markdown Cheatsheets / Quick References
+
+- [Markdown Cheatsheet :octocat:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Markdown Getting Started Guides / Tutorials
+
+- [Markdown Tutorial](http://markdowntutorial.com) - [:octocat:](https://github.com/gjtorikian/markdowntutorial.com)
+- [Mastering Markdown @ GitHub Guides](https://guides.github.com/features/mastering-markdown)
+- [Markdown Basics @ GitHub Help](https://help.github.com/articles/markdown-basics)
+
+## Markdown Building Blocks
+
+### Markdown Libraries
 
 - [kramdown](http://kramdown.gettalong.org) - [:octocat:](https://github.com/gettalong/kramdown), [:gem:](https://rubygems.org/gems/kramdown) - markdown library (in Ruby)
+
+Test
+
+- [Babel2]() - to be done
+    - [Babel2 F.A.Q.] -  frequently asked questions (and answers) e.g. ... ??
+
+### Markdown Web Components / Custom Elements
+
+- [`<x-markdown>`]() - to be done
+
 
 
 ## Markdown Editors
@@ -56,9 +80,13 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ### Markdown Desktop Editors
 
+Universal
+
+- [Atom + Markdown Preview]()  - to be done
+
 Windows
 
-- [Writemonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
+- [WriteMonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
 
 
 
