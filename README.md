@@ -1,10 +1,13 @@
 # awesome-markdown
 
-A collection of awesome markdown goodies, libraries, services, tools, guides, books, etc.
+A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ---
+
+[ANNOUNCEMENT] Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books @ WriteKit](https://github.com/writekit/awesome-books). 
+
 ---
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
@@ -159,21 +162,6 @@ kramdown
 ~~~
 $ kramdown --input html --output kramdown file.html > file.md
 ~~~
-
-
-## Real World "Hand-Written" Book Examples
-
-- [Open Data Handbook, 2nd Edition](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
-- [Pro Git, 2nd Edition](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2) - note: 1st edition in markdown, 2nd edition in asciidoc
-- [PHP - The Right Way](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way)
-- [The Front-End Tooling Book](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
-- [Go Bootcamp](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
-
-
-## Open Data "Auto-Build" Book Examples
-
-- [Free World Beer Book](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book) - work-in-progress; auto-build using the beer.db and markdown templates w/ a static site generator
-    - [Templates :octocat:](https://github.com/book-templates/beer) 
 
 
 ## Book Services
