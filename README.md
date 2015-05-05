@@ -2,7 +2,7 @@
 
 A collection of awesome markdown goodies, libraries, services, tools, guides, books, etc.
 
-Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ---
 ---
