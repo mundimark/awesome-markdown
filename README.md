@@ -32,7 +32,7 @@ Documentation
 
 ### MarkdownExtended (MDE)
 
-- [MarkdownExtended (MDE)](http://aboutmde.org)
+- [MarkdownExtended (MDE) @ aboutmde.org](http://aboutmde.org)
     - [Spec](http://manifest.aboutmde.org)
     - [Cheatsheet](http://cheatsheet.aboutmde.org/) - quick reference; examples side-by-side
     - [Dingus](http://dingus.aboutmde.org) - try MarkdownExtended (live) in your browser
@@ -43,7 +43,7 @@ Documentation
 
 _A strongly specified, highly compatible implementation of Markdown_
 
-- [commonmark.org](http://commonmark.org)
+- [CommonMark @ commonmark.org](http://commonmark.org)
     - [Spec](http://spec.commonmark.org)
     - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark (live) in your browser
     - [Talk](http://talk.commonmark.org)
