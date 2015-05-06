@@ -44,10 +44,10 @@ Documentation
 _A strongly specified, highly compatible implementation of Markdown_
 
 - [commonmark.org](http://commonmark.org)
-- [Spec](http://spec.commonmark.org)
+    - [Spec](http://spec.commonmark.org)
+    - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark (live) in your browser
+    - [Talk](http://talk.commonmark.org)
 - [Code :octocat:](https://github.com/jgm/CommonMark) - spec and reference code in JavaScript and C
-- [Dingus](http://spec.commonmark.org/dingus) - try CommonMark (live) in your browser
-- [Talk](http://talk.commonmark.org)
 
 
 ## Markdown Documentation
