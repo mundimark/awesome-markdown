@@ -24,19 +24,29 @@ Documentation
 
 ## Markdown Syntax Extensions
 
-- [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
 - [SmartyPants](http://daringfireball.net/projects/smartypants) -  convert (c) into ?, "" into ?, etc. 
 - [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com)
 - [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
 - [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ [ ] and [x], etc.
 
+### MultiMarkdown (MMD)
+
+- [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
+    - [Cheatsheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html) 
+- [Test Suite :octocat:](https://github.com/fletcher/MMD-Test-Suite) - syntax quick reference
+- [MultiMarkdown.pl :octocat:](https://github.com/fletcher/MultiMarkdown) - MultiMarkdown.pl code; converter script in Perl
+
+### Markdown Extra
+
+to be done
+
 ### Markdown Extended (MDE)
 
 - [Markdown Extended (MDE) @ aboutmde.org](http://aboutmde.org)
     - [Spec](http://manifest.aboutmde.org)
-    - [Cheatsheet](http://cheatsheet.aboutmde.org/) - quick reference; examples side-by-side
+    - [Cheatsheet](http://cheatsheet.aboutmde.org/) - syntax quick reference; examples side-by-side
     - [Dingus](http://dingus.aboutmde.org) - try Markdown Extended in your browser
-- [Code :octocat:](https://github.com/piwi/markdown-extended)
+- [Code :octocat:](https://github.com/piwi/markdown-extended) - converter script in PHP
 
 
 ## CommonMark
