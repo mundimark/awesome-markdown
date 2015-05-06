@@ -32,9 +32,9 @@ Documentation
 ### MultiMarkdown (MMD)
 
 - [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more; first added to MultiMarkdown.pl
-    - [Cheatsheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html) 
-- [Test Suite :octocat:](https://github.com/fletcher/MMD-Test-Suite) - syntax quick reference
-- [MultiMarkdown.pl :octocat:](https://github.com/fletcher/MultiMarkdown) - MultiMarkdown.pl code; converter script in Perl
+    - [Cheatsheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html)  - syntax quick reference
+    - [Test Suite :octocat:](https://github.com/fletcher/MMD-Test-Suite)
+- [MultiMarkdown.pl :octocat:](https://github.com/fletcher/MultiMarkdown) - historic MultiMarkdown.pl code; converter script in Perl (last update in Jan 2011)
 
 ### Markdown Extra
 
