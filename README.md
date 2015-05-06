@@ -29,6 +29,7 @@ Documentation
 - [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com)
 - [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
 - [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ [ ] and [x], etc.
+- [MarkdownExtended (MDE)](http://aboutmde.org/) - [:octocat:](https://github.com/piwi/markdown-extended)
 
 
 ## CommonMark
@@ -98,6 +99,7 @@ Windows
 - [Pandoc](http://pandoc.org) - [:octocat:](https://github.com/jgm/pandoc) - a universal document converter (in Haskell)
 - [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - transform your plain text into static websites and blogs (in Ruby)
 - [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman/middleman), [:gem:](https://rubygems.org/gems/middleman) - makes developing websites simple (in Ruby)
+- [MarkdownExtended (MDE) :octocat:](https://github.com/piwi/markdown-extended) - transform plain text input (strings or files) in various output formats (in PHP)
 
 
 ### Markdown to Website / Blog
