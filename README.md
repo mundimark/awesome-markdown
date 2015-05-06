@@ -31,14 +31,15 @@ Documentation
 
 ### MultiMarkdown (MMD)
 
-- [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more
+- [MultiMarkdown (MMD)](http://fletcherpenney.net/multimarkdown) - Markdown extensions by Fletcher Penney adding footnotes, tables, definition lists, document metadata (e.g. title, author, date, etc.) and more; first added to MultiMarkdown.pl
     - [Cheatsheet](https://rawgit.com/fletcher/human-markdown-reference/master/index.html) 
 - [Test Suite :octocat:](https://github.com/fletcher/MMD-Test-Suite) - syntax quick reference
 - [MultiMarkdown.pl :octocat:](https://github.com/fletcher/MultiMarkdown) - MultiMarkdown.pl code; converter script in Perl
 
 ### Markdown Extra
 
-to be done
+- [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/) - Markdown extensions by Michel Fortin; first added to PHP Markdown (Extra)
+- [Dingus](https://michelf.ca/projects/php-markdown/dingus/)  - try Markdown Extra in your browser
 
 ### Markdown Extended (MDE)
 
