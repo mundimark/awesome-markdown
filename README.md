@@ -30,12 +30,12 @@ Documentation
 - [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
 - [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ [ ] and [x], etc.
 
-### MarkdownExtended (MDE)
+### Markdown Extended (MDE)
 
-- [MarkdownExtended (MDE) @ aboutmde.org](http://aboutmde.org)
+- [Markdown Extended (MDE) @ aboutmde.org](http://aboutmde.org)
     - [Spec](http://manifest.aboutmde.org)
     - [Cheatsheet](http://cheatsheet.aboutmde.org/) - quick reference; examples side-by-side
-    - [Dingus](http://dingus.aboutmde.org) - try MarkdownExtended (live) in your browser
+    - [Dingus](http://dingus.aboutmde.org) - try Markdown Extended in your browser
 - [Code :octocat:](https://github.com/piwi/markdown-extended)
 
 
@@ -45,7 +45,7 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 - [CommonMark @ commonmark.org](http://commonmark.org)
     - [Spec](http://spec.commonmark.org)
-    - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark (live) in your browser
+    - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark in your browser
     - [Talk](http://talk.commonmark.org)
 - [Code :octocat:](https://github.com/jgm/CommonMark) - spec and reference code in JavaScript and C
 
@@ -106,7 +106,7 @@ Windows
 - [Pandoc](http://pandoc.org) - [:octocat:](https://github.com/jgm/pandoc) - a universal document converter (in Haskell)
 - [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - transform your plain text into static websites and blogs (in Ruby)
 - [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman/middleman), [:gem:](https://rubygems.org/gems/middleman) - makes developing websites simple (in Ruby)
-- [MarkdownExtended (MDE) :octocat:](https://github.com/piwi/markdown-extended) - transform plain text input (strings or files) in various output formats (in PHP)
+- [Markdown Extended (MDE) :octocat:](https://github.com/piwi/markdown-extended) - transform plain text input (strings or files) in various output formats (in PHP)
 
 
 ### Markdown to Website / Blog
