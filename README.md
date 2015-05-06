@@ -29,7 +29,14 @@ Documentation
 - [Emojis](http://www.emoji-cheat-sheet.com) - [:octocat:](https://github.com/arvida/emoji-cheat-sheet.com)
 - [CriticMarkup](http://criticmarkup.com) - [:octocat:](https://github.com/CriticMarkup)
 - [GitHub Flavored Markup (GFM)](https://help.github.com/articles/github-flavored-markdown) - @mention, to do lists w/ [ ] and [x], etc.
-- [MarkdownExtended (MDE)](http://aboutmde.org/) - [:octocat:](https://github.com/piwi/markdown-extended)
+
+### MarkdownExtended (MDE)
+
+- [MarkdownExtended (MDE)](http://aboutmde.org)
+    - [Spec](http://manifest.aboutmde.org)
+    - [Cheatsheet](http://cheatsheet.aboutmde.org/) - quick reference; examples side-by-side
+    - [Dingus](http://dingus.aboutmde.org) - try MarkdownExtended (live) in your browser
+- [Code :octocat:](https://github.com/piwi/markdown-extended)
 
 
 ## CommonMark
