@@ -106,6 +106,14 @@ Universal
 
 - [Atom + Markdown Preview]()  - to be done
 
+Linux
+
+- [Retext](https://github.com/retext-project/retext/wiki) [:octocat:](https://github.com/retext-project/retext) - ReText is a simple but powerful editor for Markdown and reStructuredText markup languages. ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
+- [uText](http://www.atareao.es/tag/utext/) - uText is a very simple editor for Markdown. uText supports live text preview and syntax highlighting. Supported export formats: HTML, ODT, PDF. [uText in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/utext/).
+- [Remarkable](http://remarkableapp.github.io/) - *'The best markdown editor for Linux and Windows'*
+- [UberWriter](http://uberwriter.wolfvollprecht.de/) - [UberWriter in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/uberwriter/) UberWriter, beautiful distraction free writing. With UberWriter you get only one thing: An empty textbox, that is to fill with your ideas. There are no settings, you don't have to choose a font, it is only for writing.You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
+- [MarkMyWords :octocat:](http://github.com/voldyman/MarkMyWords) - A minimal markdown editor
+
 Windows
 
 - [WriteMonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
