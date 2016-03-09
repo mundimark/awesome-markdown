@@ -1,4 +1,4 @@
-# awesome-markdown
+# Awesome Markdown
 
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
