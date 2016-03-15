@@ -81,8 +81,8 @@ _A strongly specified, highly compatible implementation of Markdown_
 
 Test
 
-- [Babel2]() - to be done
-    - [Babel2 F.A.Q.] -  frequently asked questions (and answers) e.g. ... ??
+- [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
+    - [Babelmark 2 F.A.Q.](http://johnmacfarlane.net/babelmark2/faq.html) - frequently asked questions (and answers) e.g. ... ??
 
 ### Markdown Web Components / Custom Elements
 
