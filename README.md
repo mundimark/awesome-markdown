@@ -88,8 +88,6 @@ Test
 
 - [`<x-markdown>`]() - to be done
 
-
-
 ## Markdown Editors
 
 _Zen Writing - leaving you alone with your thoughts and your words_
@@ -118,7 +116,9 @@ Windows
 
 - [WriteMonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
 
+Mac OS
 
+- [MacDown](http://macdown.uranusjr.com/) - open source Markdown editor inspired by Mou, with live preview of extended Markdown syntaxes
 
 ## Markdown Command Line Tools
 
