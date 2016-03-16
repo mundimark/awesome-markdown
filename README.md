@@ -1,3 +1,10 @@
+Awesome Series @ Write Kit
+
+[Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) • 
+[Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  •
+[Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
+
+
 # Awesome Markdown
 
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
@@ -6,20 +13,24 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
+[ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
+about markdown and friends?
+Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 
 ## Markdown
 
-- [Markdown](http://daringfireball.net/projects/markdown) - original Markdown syntax write-up and processor in Perl by John Gruber; no longer maintained (last update in Dec 2004)
-- [Talk](https://pairlist6.pair.net/mailman/listinfo/markdown-discuss) - markdown-discuss mailing list
+- **Markdown** (web: [daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)) - original Markdown syntax write-up and processor in Perl by John Gruber; no longer maintained (last update in Dec 2004)
+    - [**Talk**](https://pairlist6.pair.net/mailman/listinfo/markdown-discuss) - markdown-discuss mailing list
 
 Documentation
 
-- [Markdown @ Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+- [**Markdown @ Wikipedia**](http://en.wikipedia.org/wiki/Markdown)
 
 
 ## Markdown Syntax Extensions
@@ -50,6 +61,7 @@ Documentation
 - [Code :octocat:](https://github.com/piwi/markdown-extended) - converter script in PHP
 
 
+
 ## CommonMark
 
 _A strongly specified, highly compatible implementation of Markdown_
@@ -73,13 +85,40 @@ _A strongly specified, highly compatible implementation of Markdown_
 - [Mastering Markdown @ GitHub Guides](https://guides.github.com/features/mastering-markdown)
 - [Markdown Basics @ GitHub Help](https://help.github.com/articles/markdown-basics)
 
+
+
 ## Markdown Building Blocks
 
-### Markdown Libraries
+### Markdown Libraries & Tools
 
-- [kramdown](http://kramdown.gettalong.org) - [:octocat:](https://github.com/gettalong/kramdown), [:gem:](https://rubygems.org/gems/kramdown) - markdown library (in Ruby)
+**Pandoc**
+(web: [`pandoc.org`](http://pandoc.org),
+ github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc)) -
+a universal document converter (in Haskell)
 
-Test
+```
+$ pandoc file.html -o file.md
+```
+
+**kramdown**
+(web: [`kramdown.gettalong.org`](http://kramdown.gettalong.org),
+ github: [`gettalong/kramdown`](https://github.com/gettalong/kramdown),
+ gem: [`kramdown`](https://rubygems.org/gems/kramdown)) -
+markdown library & command line tool (in Ruby)
+
+```
+$ kramdown --input html --output kramdown file.html > file.md
+```
+
+
+**Markdown Extended (MDE)**
+(github: [`e-picas/markdown-extended`](https://github.com/e-picas/markdown-extended)
+- transform plain text input (strings or files) in various output formats (in PHP)
+
+
+
+
+### Babelmark
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
     - [Babelmark 2 F.A.Q.](http://johnmacfarlane.net/babelmark2/faq.html) - frequently asked questions (and answers) e.g. ... ??
@@ -88,59 +127,48 @@ Test
 
 - [`<x-markdown>`]() - to be done
 
-## Markdown Editors
 
-_Zen Writing - leaving you alone with your thoughts and your words_
-
-### Markdown Online Editors
-
-- [Minimalist Online Markdown Editor](http://markdown.pioul.fr/) - [:octocat:](https://github.com/pioul/Minimalist-Online-Markdown-Editor)
-- [StackEdit](https://stackedit.io) - [:octocat:](https://github.com/benweet/stackedit)
-- [Markdown Note](http://writekit.github.io/markdown.note/note.html) - [:octocat:](https://github.com/writekit/markdown.note) - another simple single HTML page, server-less Markdown editor in JavaScript
-
-### Markdown Desktop Editors
-
-Universal
-
-- [Atom + Markdown Preview]()  - to be done
-
-Linux
-
-- [Retext](https://github.com/retext-project/retext/wiki) [:octocat:](https://github.com/retext-project/retext) - ReText is a simple but powerful editor for Markdown and reStructuredText markup languages. ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
-- [uText](http://www.atareao.es/tag/utext/) - uText is a very simple editor for Markdown. uText supports live text preview and syntax highlighting. Supported export formats: HTML, ODT, PDF. [uText in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/utext/).
-- [Remarkable](http://remarkableapp.github.io/) - *'The best markdown editor for Linux and Windows'*
-- [UberWriter](http://uberwriter.wolfvollprecht.de/) - [UberWriter in the Ubuntu apps directory](https://apps.ubuntu.com/cat/applications/uberwriter/) UberWriter, beautiful distraction free writing. With UberWriter you get only one thing: An empty textbox, that is to fill with your ideas. There are no settings, you don't have to choose a font, it is only for writing.You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
-- [MarkMyWords :octocat:](http://github.com/voldyman/MarkMyWords) - A minimal markdown editor
-
-Windows
-
-- [WriteMonkey](http://writemonkey.com) - full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words; WriteMonkey is light, fast, and free
-
-Mac OS
-
-- [MacDown](http://macdown.uranusjr.com/) - open source Markdown editor inspired by Mou, with live preview of extended Markdown syntaxes
-
-## Markdown Command Line Tools
-
-- [Pandoc](http://pandoc.org) - [:octocat:](https://github.com/jgm/pandoc) - a universal document converter (in Haskell)
-- [Jekyll](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - transform your plain text into static websites and blogs (in Ruby)
-- [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman/middleman), [:gem:](https://rubygems.org/gems/middleman) - makes developing websites simple (in Ruby)
-- [Markdown Extended (MDE) :octocat:](https://github.com/piwi/markdown-extended) - transform plain text input (strings or files) in various output formats (in PHP)
 
 
 ### Markdown to Website / Blog
+
+**Jekyll**
+(web: [`jekyllrb.com`](http://jekyllrb.com),
+ github: [`jekyll/jekyll`](https://github.com/jekyll/jekyll),
+ gem: [`jekyll`](https://rubygems.org/gems/jekyll)) -
+transform your plain text into static websites and blogs (in Ruby)
+
+**Middleman**
+(web: [`middlemanapp.com`](https://middlemanapp.com),
+ github: [`middleman/middleman`](https://github.com/middleman/middleman),
+ gem: [`middleman`]) -
+makes developing websites simple (in Ruby)
 
 
 
 ### Markdown to Email
 
-- [Markdown Here](http://markdown-here.com) - [:octocat:](https://github.com/adam-p/markdown-here) - a browser extension for rendering email written in Markdown; available for Chrome, Firefox, Safari, Thunderbird, and more; besides email also works with Evernote, Google Groups, Blogger, and more
+**Markdown Here**
+(web: [`markdown-here.com`](http://markdown-here.com),
+ github: [`adam-p/markdown-here`](https://github.com/adam-p/markdown-here)) -
+a browser extension for rendering email written in Markdown;
+available for Chrome, Firefox, Safari, Thunderbird, and more;
+besides email also works with Evernote, Google Groups, Blogger, and more
+
 
 
 ### Markdown to Presentation / Slideshow
 
-- [Slide Show (S9)](http://slideshow-s9.github.io) - [:octocat:](https://github.com/slideshow-s9), [:gem:](https://rubygems.org/gems/slideshow) - a free web alternative to PowerPoint and Keynote in Ruby
-    - [Templates :octocat:](https://github.com/slideshow-templates)
+**Slide Show (S9)**
+(web: [`slideshow-s9.github.io`](http://slideshow-s9.github.io),
+ github: [`slideshow-s9/slideshow`](https://github.com/slideshow-s9),
+ gem: [`slideshow`](https://rubygems.org/gems/slideshow)) -
+a free web alternative to PowerPoint and Keynote in Ruby
+
+- Templates (github: [`slideshow-templates`](https://github.com/slideshow-templates))
+
+
+
 
 ### Markdown to Portable Document Format (PDF)
 
@@ -151,6 +179,13 @@ Mac OS
 
 - [Hyper Book (H9) :octocat:](https://github.com/hybook), [:gem:](https://rubygems.org/gems/hybook)
     - [Templates :octocat:](https://github.com/book-templates)
+
+
+
+### Markdown to Table of Contents (TOC)
+
+to be done
+
 
 
 ## Convert to Markdown Tools
@@ -177,25 +212,8 @@ JavaScript / Node.js
 - [to-markdown :octocat:](https://github.com/domchristie/to-markdown), [(npm Package)](https://www.npmjs.com/package/to-markdown)  - a HTML to Markdown converter in JavaScript
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
  
-Command Line Examples
 
-Pandoc
 
-~~~
-$ pandoc file.html -o file.md
-~~~
-
-kramdown
-
-~~~
-$ kramdown --input html --output kramdown file.html > file.md
-~~~
-
-### SPIP syntax to Markdown
-
-[SPIP](http://spip.net) is an open source CMS
-
-- [spip2markdown](https://github.com/nhoizey/spip2markdown) - convert SPIP syntax to Markdown
 
 ## Book Services
 
