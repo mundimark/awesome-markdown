@@ -61,16 +61,32 @@ Documentation
 - [Code :octocat:](https://github.com/piwi/markdown-extended) - converter script in PHP
 
 
+## Manuscripts
+
+_Free book format for Markdown_
+
+**Manuscripts**
+(web: [`manuscripts.github.io`](http://manuscripts.github.io),
+ github: [`manuscripts`](https://github.com/manuscripts)) -
+adds book.yml for book (meta) info e.g. title, author, publisher, year etc.
+and contents.yml for table of contents and file strucutre
+
+- Manuscripts Book Starter Kit (github: [`manuscripts/book-starter`](https://github.com/manuscripts/book-starter))
+
+
 
 ## CommonMark
 
 _A strongly specified, highly compatible implementation of Markdown_
 
-- [CommonMark @ commonmark.org](http://commonmark.org)
-    - [Spec](http://spec.commonmark.org)
-    - [Dingus](http://spec.commonmark.org/dingus) - try CommonMark in your browser
-    - [Talk](http://talk.commonmark.org)
-- [Code :octocat:](https://github.com/jgm/CommonMark) - spec and reference code in JavaScript and C
+**CommonMark**
+(web: [`commonmark.org`](http://commonmark.org))
+
+- Spec (web: [`http://spec.commonmark.org`](http://spec.commonmark.org))
+- Dingus (web: [`spec.commonmark.org/dingus`](http://spec.commonmark.org/dingus)) - try CommonMark in your browser
+- Talk (web: [`talk.commonmark.org`](http://talk.commonmark.org))
+- Code (github: [`jgm/CommonMark`](https://github.com/jgm/CommonMark)) - spec and reference code in JavaScript and C
+
 
 
 ## Markdown Documentation
@@ -96,19 +112,12 @@ _A strongly specified, highly compatible implementation of Markdown_
  github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc)) -
 a universal document converter (in Haskell)
 
-```
-$ pandoc file.html -o file.md
-```
 
 **kramdown**
 (web: [`kramdown.gettalong.org`](http://kramdown.gettalong.org),
  github: [`gettalong/kramdown`](https://github.com/gettalong/kramdown),
  gem: [`kramdown`](https://rubygems.org/gems/kramdown)) -
 markdown library & command line tool (in Ruby)
-
-```
-$ kramdown --input html --output kramdown file.html > file.md
-```
 
 
 **Markdown Extended (MDE)**
@@ -122,6 +131,17 @@ $ kramdown --input html --output kramdown file.html > file.md
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
     - [Babelmark 2 F.A.Q.](http://johnmacfarlane.net/babelmark2/faq.html) - frequently asked questions (and answers) e.g. ... ??
+
+
+### Markdown Style Guides / Best Practices
+
+to be done
+
+### Markdown Lint / Style Rule Checker
+
+- [mdlint]() to be done
+
+
 
 ### Markdown Web Components / Custom Elements
 
@@ -175,16 +195,29 @@ a free web alternative to PowerPoint and Keynote in Ruby
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
 
 
+### Markdown Styles / Documents / Pages
+
+**The Zen of Page Designs**
+(github: [`pagedesigns`](https://github.com/pagedesigns))
+
+
 ### Markdown to Books
 
-- [Hyper Book (H9) :octocat:](https://github.com/hybook), [:gem:](https://rubygems.org/gems/hybook)
-    - [Templates :octocat:](https://github.com/book-templates)
+**The Zen of Book Designs**
+(github: [`bookdesigns`](https://github.com/bookdesigns))
+
+
+
+**Hyper Book (H9)** [:octocat:](https://github.com/hybook), [:gem:](https://rubygems.org/gems/hybook)
+
+- [Templates :octocat:](https://github.com/book-templates)
 
 
 
 ### Markdown to Table of Contents (TOC)
 
 to be done
+
 
 
 
@@ -213,8 +246,6 @@ JavaScript / Node.js
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
  
 
-
-
 ## Book Services
 
 - [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line
@@ -223,18 +254,6 @@ JavaScript / Node.js
     - [GitBook :octocat:](https://github.com/GitbookIO/gitbook) - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
 - [Bitbooks.cc](http://bitbooks.cc) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
     - [Franklin :octocat:](https://github.com/bryanbraun/franklin) - a static-site framework, optimized for online books
-
-
-## Alternatives
-
-_More lightweight markup languages_
-
-- [Wikitext, Wikicode](http://en.wikipedia.org/wiki/Help:Wiki_markup) - wiki markup used by Wikipedia and friends
-   - [Creole](http://en.wikipedia.org/wiki/Creole_(markup))  - "Standardized" core Wikitext markup
-- [AsciiDoc](http://en.wikipedia.org/wiki/AsciiDoc)
-- [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language))
-- [reStructuredText (rst, reST)](http://en.wikipedia.org/wiki/ReStructuredText)
-- [BBCode](http://en.wikipedia.org/wiki/BBCode) - bulletin board code
 
 
 ## Meta
