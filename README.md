@@ -216,7 +216,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 ### Markdown to Table of Contents (TOC)
 
-to be done
+**Generate a markdown table of contents (TOC) with [remarkable](https://github.com/jonschlinkert/remarkable)**
+(github: [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc))
 
 
 
