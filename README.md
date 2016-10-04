@@ -246,7 +246,8 @@ JavaScript / Node.js
 
 - [to-markdown :octocat:](https://github.com/domchristie/to-markdown), [(npm Package)](https://www.npmjs.com/package/to-markdown)  - a HTML to Markdown converter in JavaScript
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
-- [Markitdown :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
+- [Markitdown](http://markitdown.medusis.com) - A client side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
+  - [Markitdown.medusis.com :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client side web app for converting rich text to markdown
  
 
 ## Book Services
