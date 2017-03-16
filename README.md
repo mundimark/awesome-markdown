@@ -98,8 +98,8 @@ _CommonMark with GitHub Extensions_
 
 Extensions include:
 
-Leaf Blocks: Tables -- 
-Container Blocks: Task list items --
+Leaf Blocks: Tables ++ 
+Container Blocks: Task list items ++
 Inlines: Strikethrough; Autolinks; Disallowed Raw HTML
 
 
