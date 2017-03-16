@@ -98,8 +98,8 @@ _CommonMark with GitHub Extensions_
 
 Extensions include:
 
-Leaf Blocks: Tables // 
-Container Blocks: Task list items //
+Leaf Blocks: Tables -- 
+Container Blocks: Task list items --
 Inlines: Strikethrough; Autolinks; Disallowed Raw HTML
 
 
@@ -296,6 +296,13 @@ JavaScript / Node.js
     - [GitBook :octocat:](https://github.com/GitbookIO/gitbook) - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
 - [Bitbooks.cc](http://bitbooks.cc) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
     - [Franklin :octocat:](https://github.com/bryanbraun/franklin) - a static-site framework, optimized for online books
+
+
+
+## Articles 
+
+- [Why You Shouldn't Use Markdown for Documentation](http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs) by Eric Holscher, March 2016
+- [Why isn't there a formal grammar for Markdown?](http://roopc.net/posts/2014/markdown-cfg) by Roopesh Chander, September 2014
 
 
 ## Meta
