@@ -82,7 +82,7 @@ _A strongly specified, highly compatible implementation of Markdown_
 **CommonMark**
 (web: [`commonmark.org`](http://commonmark.org))
 
-- Spec (web: [`http://spec.commonmark.org`](http://spec.commonmark.org)) - Edited by John MacFarlane 
+- Spec (web: [`spec.commonmark.org`](http://spec.commonmark.org)) - Edited by John MacFarlane 
 - Dingus (web: [`spec.commonmark.org/dingus`](http://spec.commonmark.org/dingus)) - try CommonMark in your browser
 - Talk (web: [`talk.commonmark.org`](http://talk.commonmark.org))
 - Code (github: [`jgm/CommonMark`](https://github.com/jgm/CommonMark)) - spec and reference code in JavaScript and C
@@ -93,7 +93,7 @@ _CommonMark with GitHub Extensions_
 
 **GitHub Flavored Markdown (GFM)**
 
-- Spec (web: [`github.github.com/gfm`])(https://github.github.com/gfm)
+- Spec (web: [`github.github.com/gfm`](https://github.github.com/gfm))
 - Code (github: [`github/cmark`](https://github.com/github/cmark) - reference code in C (fork of cmark w/ extensions)
 
 Extensions include:
