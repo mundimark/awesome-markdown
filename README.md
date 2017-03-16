@@ -87,6 +87,25 @@ _A strongly specified, highly compatible implementation of Markdown_
 - Talk (web: [`talk.commonmark.org`](http://talk.commonmark.org))
 - Code (github: [`jgm/CommonMark`](https://github.com/jgm/CommonMark)) - spec and reference code in JavaScript and C
 
+## GitHub Flavored Markdown (GFM)
+
+_Extends CommonMark_
+
+**GitHub Flavored Markdown (GFM)**
+
+- Spec (web: [`github.github.com/gfm`])(https://github.github.com/gfm)
+
+Extensions include:
+
+- Leaf Blocks
+  - Tables
+- Container Blocks
+  - Task list items
+- Inlines
+  - Strikethrough
+  - Autolinks
+  - Disallowed Raw HTML
+
 
 
 ## Markdown Documentation
