@@ -302,11 +302,14 @@ JavaScript / Node.js
 
 ## Book Services
 
-- [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line
+- [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line by Michael Hartl et al 
     - [Softcover :octocat:](https://github.com/softcover/softcover), [:gem:](https://rubygems.org/gems/softcover) - a command line tool for book generation, building, and publishing 
-- [GitBook.com](https://www.gitbook.com)  - write and publish books with Markdown and Git
+- [GitBook.com](https://www.gitbook.com)  - write and publish books with Markdown and Git by Samy Pessé et al
     - [GitBook :octocat:](https://github.com/GitbookIO/gitbook) - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
-- [Bitbooks.cc](http://bitbooks.cc) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book
+    
+<!-- break -->
+
+- [Bitbooks.cc (discontinued; archived)](https://github.com/bitbooks) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book - by Brian Braun
     - [Franklin :octocat:](https://github.com/bryanbraun/franklin) - a static-site framework, optimized for online books
 
 
