@@ -25,8 +25,20 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 
 ## Markdown
 
-- **Markdown** (web: [daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)) - original Markdown syntax write-up and processor in Perl by John Gruber; no longer maintained (last update in Dec 2004)
-    - [**Talk**](https://pairlist6.pair.net/mailman/listinfo/markdown-discuss) - markdown-discuss mailing list
+_email-style writing for the web by John Gruber and Aaron Swartz_ 
+
+- **Markdown** (web: [daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)) - original Markdown syntax write-up and processor in Perl by John Gruber; no longer maintained (last update in December 2004)
+
+History 
+
+- [Introducing Markdown](http://daringfireball.net/2004/03/introducing_markdown) by John Gruber - March 15, 2004 
+- [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown) by John Gruber - March 19, 2004
+- [Markdown](http://www.aaronsw.com/weblog/001189) by Aaron Swartz - March 22, 2004
+
+<!--
+- [**Talk**](https://pairlist6.pair.net/mailman/listinfo/markdown-discuss) - markdown-discuss mailing list
+    no longer in use
+  -->
 
 Documentation
 
