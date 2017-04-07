@@ -319,7 +319,12 @@ JavaScript / Node.js
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
 - [Markitdown](http://markitdown.medusis.com) - A client side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
   - [Markitdown.medusis.com :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client side web app for converting rich text to markdown
- 
+
+More
+
+- [heckyesmarkdown.com](http://heckyesmarkdown.com) - instantly convert a webpage to markdown; the service presents a simple interface that converts any reasonable web page into markdown (note: the service seems to use the Readability API to remove all the non-content cruft from the source page before proceeding with markdownification)
+
+
 
 ## Book Services
 
