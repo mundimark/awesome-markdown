@@ -324,7 +324,14 @@ More
 
 - [heckyesmarkdown.com](http://heckyesmarkdown.com) - instantly convert a webpage to markdown; the service presents a simple interface that converts any reasonable web page into markdown (note: the service seems to use the Readability API to remove all the non-content cruft from the source page before proceeding with markdownification)
 
+### Source Code to Markdown
 
+Generate API documentation from source code in Markdown, then host it on the web using one of the many [Markdown to Website](#markdown-to-website--blog) tools to host and serve it.
+
+- [widdershins](https://github.com/Mermade/widdershins) - turn [OpenAPI/Swagger](https://www.openapis.org) REST API documentation to Markdown
+- [Moxygen](https://github.com/sourcey/moxygen) - [Doxygen](http://www.stack.nl/~dimitri/doxygen/) (C++, but also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL , Fortran, VHDL, Tcl, and to some extent D.) documentation to Markdown
+- [raml2html/markdown-theme](https://github.com/raml2html/markdown-theme) - turn [RAML](http://raml.org) REST API documentation to Markdown using raml2html
+- [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - JavaScript API documentation via JSDoc to Markdown
 
 ## Book Services
 
