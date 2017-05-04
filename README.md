@@ -328,10 +328,10 @@ More
 
 Generate API documentation from source code in Markdown, then host it on the web using one of the many [Markdown to Website](#markdown-to-website--blog) tools to host and serve it.
 
-- [widdershins](https://github.com/Mermade/widdershins) - turn [OpenAPI/Swagger](https://www.openapis.org) REST API documentation to Markdown
-- [Moxygen](https://github.com/sourcey/moxygen) - [Doxygen](http://www.stack.nl/~dimitri/doxygen/) (C++, but also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL , Fortran, VHDL, Tcl, and to some extent D.) documentation to Markdown
-- [raml2html/markdown-theme](https://github.com/raml2html/markdown-theme) - turn [RAML](http://raml.org) REST API documentation to Markdown using raml2html
-- [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - JavaScript API documentation via JSDoc to Markdown
+- [widdershins :octocat:](https://github.com/Mermade/widdershins) - turn [OpenAPI/Swagger](https://www.openapis.org) REST API documentation to Markdown
+- [Moxygen :octocat:](https://github.com/sourcey/moxygen) - [Doxygen](http://www.stack.nl/~dimitri/doxygen/) (C++, but also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL , Fortran, VHDL, Tcl, and to some extent D.) documentation to Markdown
+- [raml2html/markdown-theme :octocat:](https://github.com/raml2html/markdown-theme) - turn [RAML](http://raml.org) REST API documentation to Markdown using raml2html
+- [jsdoc-to-markdown :octocat:](https://github.com/jsdoc2md/jsdoc-to-markdown) - JavaScript API documentation via JSDoc to Markdown
 
 ## Book Services
 
