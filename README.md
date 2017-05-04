@@ -225,16 +225,19 @@ to be done
 
 **Jekyll**
 (web: [`jekyllrb.com`](http://jekyllrb.com),
- github: [`jekyll/jekyll`](https://github.com/jekyll/jekyll),
- gem: [`jekyll`](https://rubygems.org/gems/jekyll)) -
+ github: [`jekyll/jekyll` :octocat:](https://github.com/jekyll/jekyll),
+ gem: [`jekyll` :gem:](https://rubygems.org/gems/jekyll)) -
 transform your plain text into static websites and blogs (in Ruby)
 
 **Middleman**
 (web: [`middlemanapp.com`](https://middlemanapp.com),
- github: [`middleman/middleman`](https://github.com/middleman/middleman),
- gem: [`middleman`]) -
+ github: [`middleman/middleman` :octocat:](https://github.com/middleman/middleman),
+ gem: [`middleman` :gem:](https://rubygems.org/gems/middleman)) -
 makes developing websites simple (in Ruby)
 
+**Slate** (github: [lord/slate :octocat:](https://github.com/lord/slate)) - beautiful API documentation, based on **Middleman**
+
+**Shins** (github: [`Mermade/shins` :octocat:](https://github.com/Mermade/shins), npm: [`shins`](https://www.npmjs.com/package/shins)) – beautiful API documentation, with node.js (port of **Slate**)
 
 
 ### Markdown to Email
