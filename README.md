@@ -265,6 +265,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 **nodePPT** (github: [`nodePPT`](https://github.com/ksky521/nodePPT) - A web presentation tool supporting markdown based on GFM.
 
+**Deckset** (website: [Deckset](http://www.deckset.com) – A macOS desktop app that renders Markdown presentations in beautifully designed templates.
+
 ### Markdown to Portable Document Format (PDF)
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
