@@ -336,6 +336,10 @@ Generate API documentation from source code in Markdown, then host it on the web
 - [raml2html/markdown-theme :octocat:](https://github.com/raml2html/markdown-theme) - turn [RAML](http://raml.org) REST API documentation to Markdown using raml2html
 - [jsdoc-to-markdown :octocat:](https://github.com/jsdoc2md/jsdoc-to-markdown) - JavaScript API documentation via JSDoc to Markdown
 
+### Technical Documentation to Markdown
+
+- [dita-ot-markdown](https://github.com/jelovirt/dita-ot-markdown) – converts DITA into Markdown, integrates with standard DITA OT tool chain 
+
 ## Book Services
 
 - [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line by Michael Hartl et al 
