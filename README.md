@@ -171,6 +171,7 @@ Character encoding
 - [Markdown Tutorial](http://markdowntutorial.com) - [:octocat:](https://github.com/gjtorikian/markdowntutorial.com)
 - [Mastering Markdown @ GitHub Guides](https://guides.github.com/features/mastering-markdown)
 - [Markdown Basics @ GitHub Help](https://help.github.com/articles/markdown-basics)
+- [Markdown Guide](https://www.markdownguide.org/)
 
 
 
