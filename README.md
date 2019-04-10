@@ -23,6 +23,56 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
+## Table of Contents
+
+<!--
+
+Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
+
+1. $ npm i -g markedpp
+2. $ markedpp --github -o README.md README.md
+
+-->
+
+<!-- !toc (minlevel=2 omit="Table of Contents") -->
+
+* [Markdown](#markdown)
+* [Markdown Syntax Extensions](#markdown-syntax-extensions)
+  * [MultiMarkdown (MMD)](#multimarkdown-mmd)
+  * [Markdown Extra](#markdown-extra)
+  * [Markdown Extended (MDE)](#markdown-extended-mde)
+* [Manuscripts](#manuscripts)
+* [CommonMark](#commonmark)
+* [GitHub Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
+* [Vanilla Flavored Markdown (VFMD)](#vanilla-flavored-markdown-vfmd)
+* [Markdown Documentation](#markdown-documentation)
+  * [Markdown Cheatsheets / Quick References](#markdown-cheatsheets--quick-references)
+  * [Markdown Getting Started Guides / Tutorials](#markdown-getting-started-guides--tutorials)
+* [Markdown Building Blocks](#markdown-building-blocks)
+  * [Markdown Libraries & Tools](#markdown-libraries--tools)
+  * [Babelmark](#babelmark)
+  * [Markdown Style Guides / Best Practices](#markdown-style-guides--best-practices)
+  * [Markdown Lint / Style Rule Checker](#markdown-lint--style-rule-checker)
+  * [Markdown Web Components / Custom Elements](#markdown-web-components--custom-elements)
+  * [Markdown to Website / Blog](#markdown-to-website--blog)
+  * [Markdown to Email](#markdown-to-email)
+  * [Markdown to Presentation / Slideshow](#markdown-to-presentation--slideshow)
+  * [Markdown to Portable Document Format (PDF)](#markdown-to-portable-document-format-pdf)
+  * [Markdown Styles / Documents / Pages](#markdown-styles--documents--pages)
+  * [Markdown to Books](#markdown-to-books)
+  * [Markdown to Table of Contents (TOC)](#markdown-to-table-of-contents-toc)
+  * [Markdown to Markdown Pre-Processor](#markdown-to-markdown-pre-processor)
+* [Convert to Markdown Tools](#convert-to-markdown-tools)
+  * [Microsoft Word to Markdown](#microsoft-word-to-markdown)
+  * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
+  * [Source Code to Markdown](#source-code-to-markdown)
+  * [Technical Documentation to Markdown](#technical-documentation-to-markdown)
+* [Book Services](#book-services)
+* [Articles](#articles)
+* [Meta](#meta)
+
+<!-- toc! -->
+
 ## Markdown
 
 _email-style writing for the web by John Gruber and Aaron Swartz_ 
@@ -179,6 +229,8 @@ Character encoding
 
 ### Markdown Libraries & Tools
 
+<a name="pandoc"></a>
+
 **Pandoc**
 (web: [`pandoc.org`](http://pandoc.org),
  github: [github.com/jgm/pandoc](https://github.com/jgm/pandoc)) -
@@ -196,7 +248,17 @@ markdown library & command line tool (in Ruby)
 (github: [`e-picas/markdown-extended`](https://github.com/e-picas/markdown-extended)
 - transform plain text input (strings or files) in various output formats (in PHP)
 
+<a name="marked"></a>
 
+**marked**
+(web: [`marked.js.org`](https://marked.js.org), github: [marked :octocat:](https://github.com/markedjs/marked)) a markdown parser and compiler. Built for speed. (In Javascript)
+
+
+<a name="markdown-it"></a>
+
+**markdown-it**
+(web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it)) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
+Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it-plugin).
 
 
 ### Babelmark
@@ -240,6 +302,7 @@ makes developing websites simple (in Ruby)
 
 **Shins** (github: [`Mermade/shins` :octocat:](https://github.com/Mermade/shins), npm: [`shins`](https://www.npmjs.com/package/shins)) – beautiful API documentation, with node.js (port of **Slate**)
 
+**md-fileserver** (github: [md-fileserver :octocat:](https://github.com/commenthol/md-fileserver), npm: [`md-fileserver`](https://www.npmjs.com/package/md-fileserver)) – View markdown files locally in browser.
 
 ### Markdown to Email
 
@@ -296,10 +359,16 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 ### Markdown to Table of Contents (TOC)
 
-**Generate a markdown table of contents (TOC) with [remarkable](https://github.com/jonschlinkert/remarkable)**
-(github: [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc))
+* **Generate a markdown table of contents (TOC) with [remarkable](https://github.com/jonschlinkert/remarkable)**
+  (github: [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc)) 
+* [markedpp](#markedpp) Markdown to Markdown Pre-Processor
 
 
+### Markdown to Markdown Pre-Processor
+
+<a name="markedpp"></a>
+
+* **markedpp** (github: [markedpp :octocat:](https://github.com/commenthol/markedpp)) adds support for table-of-contents (TOC), numbered headings, includes other markdown files and/or create reference lists for use with different markdown processors like [marked](#marked), [markdown-it](#markdown-it), [pandoc](#pandoc) or for hosting on github.com, gitlab.com, bitbucket.org or ghost.org.
 
 
 ## Convert to Markdown Tools
@@ -360,7 +429,7 @@ Generate API documentation from source code in Markdown, then host it on the web
 
 
 
-## Articles 
+## Articles
 
 - [Why You Shouldn't Use Markdown for Documentation](http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs) by Eric Holscher, March 2016
 - [Why isn't there a formal grammar for Markdown?](http://roopc.net/posts/2014/markdown-cfg) by Roopesh Chander, September 2014
