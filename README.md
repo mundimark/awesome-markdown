@@ -260,6 +260,8 @@ markdown library & command line tool (in Ruby)
 (web: [`markdown-it.github.io`](https://markdown-it.github.io/), github: [markdown-it :octocat:](https://github.com/markdown-it/markdown-it)) Javascript markdown parser. 100% CommonMark support, extensions, syntax plugins & high speed.
 Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it-plugin).
 
+**concat-md**
+([npm](https://www.npmjs.com/package/concat-md), [github](https://github.com/ozum/concat-md#readme)) CLI and API to concatenate markdown files and modify as necessary. Also adds titles from FrontMatter, file names and directory names, decreases level of existing titles to comply with added titles.
 
 ### Babelmark
 
