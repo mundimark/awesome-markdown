@@ -364,6 +364,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 * **Generate a markdown table of contents (TOC) with [remarkable](https://github.com/jonschlinkert/remarkable)**
   (github: [`markdown-toc`](https://github.com/jonschlinkert/markdown-toc)) 
 * [markedpp](#markedpp) Markdown to Markdown Pre-Processor
+* [mdtoc :octocat:](https://github.com/tallclair/mdtoc) - Standalone TOC generator designed for CI
 
 
 ### Markdown to Markdown Pre-Processor
