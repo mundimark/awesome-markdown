@@ -275,8 +275,9 @@ to be done
 
 ### Markdown Lint / Style Rule Checker
 
+- [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 - [mdlint]() to be done
-
+- [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
 
 
 ### Markdown Web Components / Custom Elements
