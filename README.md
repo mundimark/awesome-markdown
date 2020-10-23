@@ -399,8 +399,8 @@ JavaScript / Node.js
 
 - [to-markdown :octocat:](https://github.com/domchristie/to-markdown), [(npm Package)](https://www.npmjs.com/package/to-markdown)  - a HTML to Markdown converter in JavaScript
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
-- [Markitdown](http://markitdown.medusis.com) - A client side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
-  - [Markitdown.medusis.com :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client side web app for converting rich text to markdown
+- [Markitdown](http://markitdown.medusis.com) - A client-side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
+  - [Markitdown.medusis.com :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client-side web app for converting rich text to markdown
 
 More
 
@@ -418,11 +418,11 @@ Generate API documentation from source code in Markdown, then host it on the web
 
 ### Technical Documentation to Markdown
 
-- [dita-ot-markdown](https://github.com/jelovirt/dita-ot-markdown) – converts DITA into Markdown, integrates with standard DITA OT tool chain 
+- [dita-ot-markdown](https://github.com/jelovirt/dita-ot-markdown) – converts DITA into Markdown, integrates with standard DITA OT toolchain 
 
 ### Screencast to Markdown
 
-- [Paircast](https://paircast.io) - Combines desktop video, git diffs, and voice transcriptions in to markdown documentation.
+- [Paircast](https://paircast.io) - Combines desktop video, git diffs, and voice transcriptions into markdown documentation.
 
 ## Book Services
 
