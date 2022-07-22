@@ -67,6 +67,8 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
   * [Source Code to Markdown](#source-code-to-markdown)
   * [Technical Documentation to Markdown](#technical-documentation-to-markdown)
+  * [Screencast to Markdown](#screencast-to-markdown)
+  * [JSON to Markdown](#json-to-markdown)
 * [Book Services](#book-services)
 * [Articles](#articles)
 * [Meta](#meta)
@@ -426,6 +428,13 @@ Generate API documentation from source code in Markdown, then host it on the web
 ### Screencast to Markdown
 
 - [Paircast](https://paircast.io) - Combines desktop video, git diffs, and voice transcriptions into markdown documentation.
+
+### JSON to Markdown
+
+JavaScript / Node.js
+
+- [json2md](https://github.com/IonicaBizau/json2md) - A JSON to Markdown converter.
+- [ts-markdown](https://github.com/kgar/ts-markdown) - An extensible TypeScript markdown generator that takes JSON and creates a markdown document.
 
 ## Book Services
 
