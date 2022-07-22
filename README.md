@@ -36,40 +36,45 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
-* [Markdown](#markdown)
-* [Markdown Syntax Extensions](#markdown-syntax-extensions)
-  * [MultiMarkdown (MMD)](#multimarkdown-mmd)
-  * [Markdown Extra](#markdown-extra)
-  * [Markdown Extended (MDE)](#markdown-extended-mde)
-* [Manuscripts](#manuscripts)
-* [CommonMark](#commonmark)
-* [GitHub Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
-* [Vanilla Flavored Markdown (VFMD)](#vanilla-flavored-markdown-vfmd)
-* [Markdown Documentation](#markdown-documentation)
-  * [Markdown Cheatsheets / Quick References](#markdown-cheatsheets--quick-references)
-  * [Markdown Getting Started Guides / Tutorials](#markdown-getting-started-guides--tutorials)
-* [Markdown Building Blocks](#markdown-building-blocks)
-  * [Markdown Libraries & Tools](#markdown-libraries--tools)
-  * [Babelmark](#babelmark)
-  * [Markdown Style Guides / Best Practices](#markdown-style-guides--best-practices)
-  * [Markdown Lint / Style Rule Checker](#markdown-lint--style-rule-checker)
-  * [Markdown Web Components / Custom Elements](#markdown-web-components--custom-elements)
-  * [Markdown to Website / Blog](#markdown-to-website--blog)
-  * [Markdown to Email](#markdown-to-email)
-  * [Markdown to Presentation / Slideshow](#markdown-to-presentation--slideshow)
-  * [Markdown to Portable Document Format (PDF)](#markdown-to-portable-document-format-pdf)
-  * [Markdown Styles / Documents / Pages](#markdown-styles--documents--pages)
-  * [Markdown to Books](#markdown-to-books)
-  * [Markdown to Table of Contents (TOC)](#markdown-to-table-of-contents-toc)
-  * [Markdown to Markdown Pre-Processor](#markdown-to-markdown-pre-processor)
-* [Convert to Markdown Tools](#convert-to-markdown-tools)
-  * [Microsoft Word to Markdown](#microsoft-word-to-markdown)
-  * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
-  * [Source Code to Markdown](#source-code-to-markdown)
-  * [Technical Documentation to Markdown](#technical-documentation-to-markdown)
-* [Book Services](#book-services)
-* [Articles](#articles)
-* [Meta](#meta)
+- [Awesome Markdown](#awesome-markdown)
+      - [_Contributions welcome. Anything missing? Send in a pull request. Thanks._](#contributions-welcome-anything-missing-send-in-a-pull-request-thanks)
+  - [Table of Contents](#table-of-contents)
+  - [Markdown](#markdown)
+  - [Markdown Syntax Extensions](#markdown-syntax-extensions)
+    - [MultiMarkdown (MMD)](#multimarkdown-mmd)
+    - [Markdown Extra](#markdown-extra)
+    - [Markdown Extended (MDE)](#markdown-extended-mde)
+  - [Manuscripts](#manuscripts)
+  - [CommonMark](#commonmark)
+  - [GitHub Flavored Markdown (GFM)](#github-flavored-markdown-gfm)
+  - [Vanilla Flavored Markdown (VFMD)](#vanilla-flavored-markdown-vfmd)
+  - [Markdown Documentation](#markdown-documentation)
+    - [Markdown Cheatsheets / Quick References](#markdown-cheatsheets--quick-references)
+    - [Markdown Getting Started Guides / Tutorials](#markdown-getting-started-guides--tutorials)
+  - [Markdown Building Blocks](#markdown-building-blocks)
+    - [Markdown Libraries & Tools](#markdown-libraries--tools)
+    - [Babelmark](#babelmark)
+    - [Markdown Style Guides / Best Practices](#markdown-style-guides--best-practices)
+    - [Markdown Lint / Style Rule Checker](#markdown-lint--style-rule-checker)
+    - [Markdown Web Components / Custom Elements](#markdown-web-components--custom-elements)
+    - [Markdown to Website / Blog](#markdown-to-website--blog)
+    - [Markdown to Email](#markdown-to-email)
+    - [Markdown to Presentation / Slideshow](#markdown-to-presentation--slideshow)
+    - [Markdown to Portable Document Format (PDF)](#markdown-to-portable-document-format-pdf)
+    - [Markdown Styles / Documents / Pages](#markdown-styles--documents--pages)
+    - [Markdown to Books](#markdown-to-books)
+    - [Markdown to Table of Contents (TOC)](#markdown-to-table-of-contents-toc)
+    - [Markdown to Markdown Pre-Processor](#markdown-to-markdown-pre-processor)
+  - [Convert to Markdown Tools](#convert-to-markdown-tools)
+    - [Microsoft Word to Markdown](#microsoft-word-to-markdown)
+    - [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
+    - [Source Code to Markdown](#source-code-to-markdown)
+    - [Technical Documentation to Markdown](#technical-documentation-to-markdown)
+    - [Screencast to Markdown](#screencast-to-markdown)
+    - [JSON to Markdown](#json-to-markdown)
+  - [Book Services](#book-services)
+  - [Articles](#articles)
+  - [Meta](#meta)
 
 <!-- toc! -->
 
@@ -426,6 +431,13 @@ Generate API documentation from source code in Markdown, then host it on the web
 ### Screencast to Markdown
 
 - [Paircast](https://paircast.io) - Combines desktop video, git diffs, and voice transcriptions into markdown documentation.
+
+### JSON to Markdown
+
+JavaScript / Node.js
+
+- [json2md](https://github.com/IonicaBizau/json2md) - A JSON to Markdown converter.
+- [ts-markdown](https://github.com/kgar/ts-markdown) - An extensible TypeScript markdown generator that takes JSON and creates a markdown document.
 
 ## Book Services
 
