@@ -67,6 +67,8 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
   * [Source Code to Markdown](#source-code-to-markdown)
   * [Technical Documentation to Markdown](#technical-documentation-to-markdown)
+  * [Screencast to Markdown](#screencast-to-markdown)
+  * [JSON to Markdown](#json-to-markdown)
 * [Book Services](#book-services)
 * [Articles](#articles)
 * [Meta](#meta)
