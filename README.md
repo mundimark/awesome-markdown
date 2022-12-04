@@ -285,6 +285,7 @@ to be done
 
 ### Markdown Web Components / Custom Elements
 
+- [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Render Markdown to HTML on any website using a md tag
 - [`<x-markdown>`]() - to be done
 
 
