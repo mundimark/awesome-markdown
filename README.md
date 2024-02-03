@@ -217,6 +217,7 @@ Character encoding
 ### Markdown Cheatsheets / Quick References
 
 - [Markdown Cheatsheet :octocat:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [The Ultimate Markdown Cheat Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
 ### Markdown Getting Started Guides / Tutorials
 
