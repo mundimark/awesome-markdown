@@ -284,6 +284,7 @@ to be done
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [mdlint]() to be done
+- [mdsf](https://github.com/hougesen/mdsf) - Use your preferred code formatter to format markdown code snippets.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
 
 
