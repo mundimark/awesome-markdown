@@ -315,6 +315,8 @@ makes developing websites simple (in Ruby)
 
 **md-fileserver** (github: [md-fileserver :octocat:](https://github.com/commenthol/md-fileserver), npm: [`md-fileserver`](https://www.npmjs.com/package/md-fileserver)) – View markdown files locally in browser.
 
+**Compiiile** (github: [@compiiile/compiiile :octocat:](https://github.com/compiiile/compiiile), npm: [`@compiiile/compiiile`](https://www.npmjs.com/package/@compiiile/compiiile)) – Preview and serve folders containing Markdown files with full-text search and presentation slides.
+
 ### Markdown to Email
 
 **Markdown Here**
