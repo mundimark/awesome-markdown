@@ -286,6 +286,7 @@ to be done
 - [mdlint]() to be done
 - [mdsf](https://github.com/hougesen/mdsf) - Use your preferred code formatter to format markdown code snippets.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - [Visual Studio Code Plugin](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) enabling in-place linting of markdown files.
+- [mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust. GitHub Actions are supported.
 
 
 ### Markdown Web Components / Custom Elements
