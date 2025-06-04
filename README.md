@@ -319,6 +319,8 @@ makes developing websites simple (in Ruby)
 
 **Compiiile** (github: [@compiiile/compiiile :octocat:](https://github.com/compiiile/compiiile), npm: [`@compiiile/compiiile`](https://www.npmjs.com/package/@compiiile/compiiile)) – Preview and serve folders containing Markdown files with full-text search and presentation slides.
 
+**ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd) – The simplest way to convert a folder of Markdown files into a site of HTML files.
+
 ### Markdown to Email
 
 **Markdown Here**
