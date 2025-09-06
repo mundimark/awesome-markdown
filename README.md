@@ -276,6 +276,9 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
   Node.js. Features include drop-in editor component, TypeScript support, and lazy linefeeds for chat applications.
   ([Live Parser Demo](https://deftio.github.io/quikdown/examples/quikdown-live.html), [Editor 
   Demo](https://deftio.github.io/quikdown/examples/qde/))
+
+**mq**
+(web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq)) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
   
 ### Babelmark
 
