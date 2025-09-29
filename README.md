@@ -403,6 +403,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 * **markedpp** (github: [markedpp :octocat:](https://github.com/commenthol/markedpp)) adds support for table-of-contents (TOC), numbered headings, includes other markdown files and/or create reference lists for use with different markdown processors like [marked](#marked), [markdown-it](#markdown-it), [pandoc](#pandoc) or for hosting on github.com, gitlab.com, bitbucket.org or ghost.org.
 
+### Markdown to Notion
+
+* [mk-notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion. Keep writing in Markdown and let mk-notes handle the integration.
+
 
 ## Convert to Markdown Tools
 
