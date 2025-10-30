@@ -415,6 +415,9 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [word-to-markdowm gem :octocat:](https://github.com/benbalter/word-to-markdown), [:gem:](https://rubygems.org/gems/word-to-markdown) - "liberate" content from the jail that is Microsoft Word documents; converts to plain-text Markdown
 
+### WordStar to Markdown
+- [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
+
 ### Hypertext Markup Language (HTML) to Markdown
 
 Ruby
