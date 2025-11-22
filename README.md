@@ -334,6 +334,8 @@ makes developing websites simple (in Ruby)
 
 **ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd) – The simplest way to convert a folder of Markdown files into a site of HTML files.
 
+**markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of Markdown website
+
 ### Markdown to Email
 
 **Markdown Here**
@@ -366,6 +368,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 **GitPitch** (website: [GitPitch](http://gitpitch.com/), github: [gitpitch :octocat:](https://github.com/gitpitch/gitpitch/)) – Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. [Example](https://gitpitch.com/gitpitch/gitpitch/master)
 
 **zoetic** (github [zoetic](https://github.com/kantord/zoetic)) - Markdown presentations with your webcam as your background while presenting
+
+**markdeep-slides** (github: [markdeep-slides](https://github.com/doersino/markdeep-slides)) - Browser-side rendering of Markdown as slide deck
 
 ### Markdown to Portable Document Format (PDF)
 
