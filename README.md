@@ -426,6 +426,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 ### WordStar to Markdown
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
 
+### Various Note Formats to Markdown
+
+- [Jimmy :octocat:](https://github.com/marph91/jimmy) - Convert your notes to Markdown
+
 ### Hypertext Markup Language (HTML) to Markdown
 
 Ruby
