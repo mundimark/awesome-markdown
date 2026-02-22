@@ -65,6 +65,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Markdown to Notion](#markdown-to-notion)
 * [Convert to Markdown Tools](#convert-to-markdown-tools)
   * [Microsoft Word to Markdown](#microsoft-word-to-markdown)
+  * [PDF / Office Documents to Markdown](#pdf--office-documents-to-markdown)
   * [WordStar to Markdown](#wordstar-to-markdown)
   * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
   * [Source Code to Markdown](#source-code-to-markdown)
@@ -422,6 +423,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 ### Microsoft Word to Markdown
 
 - [word-to-markdowm gem :octocat:](https://github.com/benbalter/word-to-markdown), [:gem:](https://rubygems.org/gems/word-to-markdown) - "liberate" content from the jail that is Microsoft Word documents; converts to plain-text Markdown
+
+### PDF / Office Documents to Markdown
+
+- [doc2md :octocat:](https://github.com/orangefineblue/doc2md) - high-fidelity PDF, DOCX, and PPTX to Markdown conversion pipeline with multi-extractor support (pymupdf, pdfplumber, MinerU), image extraction, per-image classification, and multi-stage quality control
 
 ### WordStar to Markdown
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
