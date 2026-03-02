@@ -378,6 +378,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 ### Markdown to Portable Document Format (PDF)
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
+- [em-dee-pdf :octocat:](https://github.com/brendandebeasi/em-dee-pdf) - converts Markdown files to styled PDFs using Typst with 18 built-in themes, LaTeX math, and syntax highlighting
 
 
 ### Markdown Styles / Documents / Pages
