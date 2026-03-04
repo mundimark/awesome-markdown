@@ -73,8 +73,10 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Screencast to Markdown](#screencast-to-markdown)
   * [JSON to Markdown](#json-to-markdown)
 * [Book Services](#book-services)
+* [Markdown protocol](#protocol)
 * [Articles](#articles)
 * [Meta](#meta)
+
 
 <!-- toc! -->
 
@@ -498,7 +500,9 @@ JavaScript / Node.js
 - [Bitbooks.cc (discontinued; archived)](https://github.com/bitbooks) - Bitbooks turns a repo full of markdown files into a handsome, hosted, online book - by Bryan Braun
     - [Franklin :octocat:](https://github.com/bryanbraun/franklin) - a static-site framework, optimized for online books
 
+## Protocol
 
+- [demarkus](https://github.com/latebit-io/demarkus) - De-centralized markup for us: a markdown protocol, server, browser, and tools
 
 ## Articles
 
@@ -517,4 +521,6 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the markdown-discuss mailing list. Thanks!
+
+
 
