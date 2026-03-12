@@ -459,6 +459,7 @@ JavaScript / Node.js
 - [html2markdown :octocat:](https://github.com/alexgorbatchev/html2markdown),  [(npm Package)](https://www.npmjs.com/package/html2markdown) -  converting HTML to Markdown
 - [Markitdown](http://markitdown.medusis.com) - A client-side web app that lets you paste formatted text from a webpage (e.g with links intact) and recieve markdown output.
   - [Markitdown.medusis.com :octocat:](https://github.com/bambax/markitdown.medusis.com) - A client-side web app for converting rich text to markdown
+- [CopyMD :octocat:](https://github.com/zcag/copymd) - Embeddable widget that adds a "Copy as Markdown" button to any website. One script tag lets readers copy page content as clean Markdown.
 
 More
 
