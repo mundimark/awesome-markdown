@@ -381,6 +381,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
 - [em-dee-pdf :octocat:](https://github.com/brendandebeasi/em-dee-pdf) - converts Markdown files to styled PDFs using Typst with 18 built-in themes, LaTeX math, and syntax highlighting
+- [Resumx](https://resumx.dev) [:octocat:](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting that outputs PDF, HTML, DOCX, and PNG
 
 
 ### Markdown Styles / Documents / Pages
