@@ -9,6 +9,8 @@
 
 ### Markdown Libraries & Tools
 
+- [mdshare](https://mdshare.live) - Free markdown sharing and collaboration. Upload markdown, get a link, share it. Supports comments, version history, and AI integration via MCP.
+
 
 ### Babelmark
 
