@@ -507,6 +507,8 @@ JavaScript / Node.js
 ## Protocol
 
 - [demarkus](https://github.com/latebit-io/demarkus) - De-centralized markup for us: a markdown protocol, server, browser, and tools
+- [MarkWay](https://github.com/RaysunKR/MarkWay) - An HTTP protocol standard designed for AI Agents, enabling machines to browse the web more intelligently.
+
 
 ## Articles
 
