@@ -9,7 +9,8 @@
 
 ### Markdown Libraries & Tools
 
-- [mdshare](https://mdshare.live) - Free markdown sharing and collaboration. Upload markdown, get a link, share it. Supports comments, version history, and AI integration via MCP.
+
+**mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
 
 ### Babelmark
