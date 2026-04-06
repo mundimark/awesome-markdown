@@ -20,6 +20,7 @@ Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manusc
 ---
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Markdown workflow orchestration, automated documentation management, and multi-agent coordination. MIT licensed.
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
