@@ -29,7 +29,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 **Texti (Text w/ Instructions)** (github: <https://github.com/texti>) - by Gerald Bauer (Austria);  a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more. 
 
-- [Text w/ Instructions Syntax Samples](https://github.com/texti/texti.github.io/tree/master/samples)  - Idea - let's take a wikipedia page (in mediawiki markup) and rewrite in markdown, latex, and yes, text w/ instructions!
+- [Text w/ Instructions Syntax Samples](https://github.com/texti/texti.github.io/tree/master/samples)  - Idea - let's take a wikipedia page (in wikitext markup) and rewrite in markdown, latex, and yes, text w/ instructions!
 
 
 
