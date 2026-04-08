@@ -1,8 +1,4 @@
-Awesome Series @ Write Kit
-
-[Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) • 
-[Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  •
-[Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
+Awesome Markdown Series 
 
 
 # Awesome Markdown
@@ -11,16 +7,22 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
 
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
----
-
-[ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
-about markdown and friends?
-Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
-
----
-
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+
+## What's News?
+
+### Beyond Markdown
+
+Let's fix markdown quirks & oddities and why not? Let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
+
+**Djot** (web: <https://djot.net>, github: <https://github.com/jgm/djot>) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.
+
+- [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) by John MacFarlane
+
+
+
 
 
 ## Table of Contents
