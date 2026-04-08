@@ -1,7 +1,7 @@
 Awesome Markdown Series 
 
 
-# Awesome Markdown
+# Awesome Markdown (& Beyond)
 
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
@@ -11,16 +11,17 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
+
+
 ## What's News?
 
-### Beyond Markdown
-
-Let's fix markdown quirks & oddities and why not? Let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
+### Beyond Markdown - Let's fix markdown quirks & oddities and let's fill-in / add the missing parts (tables? footnotes? generic blocks? etc.)
 
 **Djot** (web: <https://djot.net>, github: <https://github.com/jgm/djot>) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.
 
 - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) by John MacFarlane
 
+**Versadoc** (github: <https://github.com/gettalong/versadok>) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.
 
 
 
