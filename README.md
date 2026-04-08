@@ -20,10 +20,20 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 **Djot** (web: <https://djot.net>, github: <https://github.com/jgm/djot>) - by John MacFarlane (USA); a light markup syntax deriving most of its features from commonmark, but fixing a few things that make commonmark's syntax complex and difficult to parse efficiently. Djot is also much fuller-featured than commonmark, with support for definition lists, footnotes, tables, several new kinds of inline formatting (insert, delete, highlight, superscript, subscript), math, smart punctuation, attributes that can be applied to any element, and generic containers for block-level, inline-level, and raw content.
 
 - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) by John MacFarlane
+- [Djot Syntax Page](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html)
 
 **Versadoc** (github: <https://github.com/gettalong/versadok>) - by Thomas Leitner (Austria); a lightweight markup language mainly based on kramdown, a markdown-superset, and on djot, with further influence from asciidoc and restructuredtext. The goal of versadok is to create a markup language that is easy to write, read and reason about and fully-featured and not tied to a particular output format (hint: HTML). By being markdown-like many people will already be familiar with the general syntax.
 
+- [Versadoc Syntax Page](https://github.com/gettalong/versadok/blob/master/website/syntax.page)
 
+
+**Texti (Text w/ Instructions)** (github: <https://github.com/texti>) - by Gerald Bauer (Austria);  a light markup syntax / language based on the best of markdown, wikipedia markup, latex & friends offering structured documents in (plain) text with formatting conventions for bold, italics, and more. 
+
+- [Text w/ Instructions Syntax Samples](https://github.com/texti/texti.github.io/tree/master/samples)  - Idea - let's take a wikipedia page (in mediawiki markup) and rewrite in markdown, latex, and yes, text w/ instructions!
+
+
+
+Yes, you can!  Add your improved beyond markdown here.
 
 
 ## Table of Contents
