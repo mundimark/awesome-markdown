@@ -33,7 +33,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 
 
-Yes, you can!  Add your improved beyond markdown here.
+Yes, you can!  Add your improved beyond markdown light markup syntax / language here.
 
 
 ## Table of Contents
