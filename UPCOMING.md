@@ -12,6 +12,8 @@
 
 **mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
+**md-viewer-py**  (GitHub: [bot-anica/md-viewer-py](https://github.com/bot-anica/md-viewer-py), PyPI: [md-viewer-py](https://pypi.org/project/md-viewer-py/)) Drop-in Markdown viewer for any folder. It works locally. Its main features: dashboard, live reload, dark/light themes, in-browser editing, 3 types of search as in Webstorm: search in current file, search in all files, search files by names.
+
 
 ### Babelmark
 
