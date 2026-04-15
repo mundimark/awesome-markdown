@@ -478,6 +478,7 @@ JavaScript / Node.js
 More
 
 - [heckyesmarkdown.com](http://heckyesmarkdown.com) - instantly convert a webpage to markdown; the service presents a simple interface that converts any reasonable web page into markdown (note: the service seems to use the Readability API to remove all the non-content cruft from the source page before proceeding with markdownification)
+- [Save :octocat:](https://github.com/jswallez/save-markdown), [(Chrome Web Store)](https://chromewebstore.google.com/detail/save-%E2%80%94-web-to-markdown/mamnlljnkigkhppbjhmpdeocobcbobdp), [(Website)](https://www.savemarkdown.co) - one-click Chrome extension that turns any webpage into clean Markdown using AI (Gemini). Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS app (Save Vault) stores saves locally and exposes them to Claude via MCP.
 
 ### Source Code to Markdown
 
