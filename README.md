@@ -5,8 +5,9 @@ Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Edit
 
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
+<!--
 Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
+-->
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
