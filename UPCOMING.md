@@ -49,6 +49,8 @@
 
 ### Markdown to Markdown Pre-Processor
 
+**NRG**  (web: [central.sonatype.com/.../readme-generator](https://central.sonatype.com/artifact/com.nanolaba/readme-generator), github: [nanolaba/readme-generator](https://github.com/nanolaba/readme-generator)) Nanolaba Readme Generator — builds multi-language README files (e.g. `README.md` and `README.ru.md`) from a single `.src.md` template via file imports, custom widgets, a built-in table-of-contents, and language-specific text via `${en:'…', ru:'…'}` substitutions. Distributed as a CLI, a Maven plugin, and a Java library.
+
 ### Markdown to Notion
 
 
