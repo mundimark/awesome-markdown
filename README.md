@@ -544,6 +544,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the markdown-discuss mailing list. Thanks!
-
-
-
+- [TaleForge](https://www.tale-forge.com) - Free creative writing platform with markdown-based book, manga, and screenplay editors. 10 languages, offline PWA.
