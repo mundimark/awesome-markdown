@@ -14,6 +14,8 @@
 
 **md-viewer-py**  (GitHub: [bot-anica/md-viewer-py](https://github.com/bot-anica/md-viewer-py), PyPI: [md-viewer-py](https://pypi.org/project/md-viewer-py/)) Drop-in Markdown viewer for any folder. It works locally. Its main features: dashboard, live reload, dark/light themes, in-browser editing, 3 types of search as in Webstorm: search in current file, search in all files, search files by names.
 
+**BeLikeNative Markdown Preview**  (web: [theluckystrike.github.io/bln-markdown-preview](https://theluckystrike.github.io/bln-markdown-preview/), github: [theluckystrike/bln-markdown-preview](https://github.com/theluckystrike/bln-markdown-preview)) Free online Markdown editor with live preview, syntax highlighting, and writing quality checks. Client-side only, no server needed. Features include dark/light themes, export to HTML, and L1-aware grammar suggestions powered by BeLikeNative.
+
 
 ### Babelmark
 
