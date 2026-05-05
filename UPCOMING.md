@@ -16,6 +16,8 @@
 
 **BeLikeNative Markdown Preview**  (web: [theluckystrike.github.io/bln-markdown-preview](https://theluckystrike.github.io/bln-markdown-preview/), github: [theluckystrike/bln-markdown-preview](https://github.com/theluckystrike/bln-markdown-preview)) Free online Markdown editor with live preview, syntax highlighting, and writing quality checks. Client-side only, no server needed. Features include dark/light themes, export to HTML, and L1-aware grammar suggestions powered by BeLikeNative.
 
+**LiteMarkup**  (GitHub: [tuures/LiteMarkup](https://github.com/tuures/LiteMarkup), NPM: [litemarkup](https://www.npmjs.com/package/litemarkup), Web: [Live demo](https://tuures.github.io/LiteMarkup/docs/demopage.html)) Parser with a typed, AST-first TypeScript API. Under 3 KB gzipped, zero dependencies. LiteMarkup supports the most popular Markdown features while maintaining a small bundle size, good performance, and strong AST extensibility. A simple HTML string renderer is included for demonstration and simple use cases, but users are expected to bring their own renderer tailored to their specific use case and context, such as rendering to React, docx, or something else. LiteMarkup performance is roughly on par with popular JS-based implementations like commonmark, marked, and markdown-it, but naturally slower than WASM-based ones.
+
 
 ### Babelmark
 
