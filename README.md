@@ -305,6 +305,10 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx), [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 
+**MacMD Viewer**
+(web: [`macmdviewer.com`](https://macmdviewer.com), github: [MacMD Viewer :octocat:](https://github.com/macmdviewer/MacMDViewer)) -
+native macOS Markdown viewer with Mermaid diagram rendering, syntax highlighting for 190+ languages, and a QuickLook extension for Finder preview
+
 ### Babelmark
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
@@ -544,6 +548,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the markdown-discuss mailing list. Thanks!
-
-
 
