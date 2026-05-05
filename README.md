@@ -302,6 +302,9 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **mq**
 (web: [mqlang.org](https://mqlang.org), github: [mq :octocat:](https://github.com/harehare/mq)) A command-line tool that processes Markdown using a syntax similar to jq. Written in Rust, allowing you to easily slice, filter, map, and transform structured data in Markdown files.
 
+**MarkdownMaster**
+(web: [markdownmaster.site](https://markdownmaster.site), github: [markdownmaster :octocat:](https://github.com/tzhkai/markdownmaster)) Free online Markdown editor with real-time preview, GitHub Flavored Markdown (GFM) support, and syntax highlighting for 100+ languages. Privacy-first — all processing happens client-side in the browser. Built with Astro + Cloudflare Pages.
+
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx), [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 
