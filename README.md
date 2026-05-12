@@ -98,6 +98,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 <!-- toc! -->
 
 ## Markdown
+- [Qonspekt](https://qonspekt.github.io/qonspekt/) - Browser tool: converts articles to atomic Obsidian Markdown notes via Claude AI. BYOK. [GitHub](https://github.com/Qonspekt/qonspekt)
 
 _email-style writing for the web by John Gruber and Aaron Swartz_ 
 
