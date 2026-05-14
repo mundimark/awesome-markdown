@@ -18,6 +18,8 @@
 
 **LiteMarkup**  (GitHub: [tuures/LiteMarkup](https://github.com/tuures/LiteMarkup), NPM: [litemarkup](https://www.npmjs.com/package/litemarkup), Web: [Live demo](https://tuures.github.io/LiteMarkup/docs/demopage.html)) Parser with a typed, AST-first TypeScript API. Under 3 KB gzipped, zero dependencies. LiteMarkup supports the most popular Markdown features while maintaining a small bundle size, good performance, and strong AST extensibility. A simple HTML string renderer is included for demonstration and simple use cases, but users are expected to bring their own renderer tailored to their specific use case and context, such as rendering to React, docx, or something else. LiteMarkup performance is roughly on par with popular JS-based implementations like commonmark, marked, and markdown-it, but naturally slower than WASM-based ones.
 
+**Dualmark**  (web: [dualmark.dev](https://dualmark.dev), github: [dodopayments/dualmark](https://github.com/dodopayments/dualmark), npm: [@dualmark/core](https://www.npmjs.com/package/@dualmark/core)) Markdown-first web infrastructure. Auto-generates a markdown twin of every page (e.g. `/pricing` + `/pricing.md`) and serves it via HTTP content negotiation when AI crawlers visit — same URL, two formats. TypeScript, Apache 2.0, adapters for Astro, Next.js, and Cloudflare Workers.
+
 
 ### Babelmark
 

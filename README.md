@@ -305,9 +305,6 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx), [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 
-**Dualmark**
-(web: [`dualmark.dev`](https://dualmark.dev), github: [dodopayments/dualmark :octocat:](https://github.com/dodopayments/dualmark), [npm](https://www.npmjs.com/package/@dualmark/core)) Markdown-first web infrastructure. Auto-generates a markdown twin of every page (e.g. `/pricing` + `/pricing.md`) and serves it via HTTP content negotiation when AI crawlers visit — same URL, two formats. TypeScript, Apache 2.0, adapters for Astro, Next.js, and Cloudflare Workers.
-
 ### Babelmark
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
