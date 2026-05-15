@@ -44,6 +44,8 @@
 
 ### Markdown to Portable Document Format (PDF)
 
+**MDMagic** (web: https://mdmagic.ai, github: https://github.com/MDMagic-MCP/mdmagic-mcp-server) - convert Markdown to Word, PDF, and HTML using your own Word templates - letterhead, fonts, branding applied automatically. Web app + MCP server for Claude, Cursor, OpenClaw, and any MCP-compatible AI assistant. Freemium.
+
 
 ### Markdown Styles / Documents / Pages
 
