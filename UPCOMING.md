@@ -18,6 +18,8 @@
 
 **LiteMarkup**  (GitHub: [tuures/LiteMarkup](https://github.com/tuures/LiteMarkup), NPM: [litemarkup](https://www.npmjs.com/package/litemarkup), Web: [Live demo](https://tuures.github.io/LiteMarkup/docs/demopage.html)) Parser with a typed, AST-first TypeScript API. Under 3 KB gzipped, zero dependencies. LiteMarkup supports the most popular Markdown features while maintaining a small bundle size, good performance, and strong AST extensibility. A simple HTML string renderer is included for demonstration and simple use cases, but users are expected to bring their own renderer tailored to their specific use case and context, such as rendering to React, docx, or something else. LiteMarkup performance is roughly on par with popular JS-based implementations like commonmark, marked, and markdown-it, but naturally slower than WASM-based ones.
 
+**Redline**  (web: [redline.levistudio.net](https://redline.levistudio.net), github: [alevi/redline](https://github.com/alevi/redline), npm: [@levistudio/redline](https://www.npmjs.com/package/@levistudio/redline)) — by Alon Levi at Levi Studio. Local inline-comment review tool for markdown files, designed for human-in-the-loop AI doc review. Open a `.md`, highlight any sentence, leave an inline comment; a Claude agent replies in the comment thread within seconds, suggests edits, and rewrites the document when you accept the round. The next round opens with the rewrite shown inline as a diff. Local-first: the server binds to `127.0.0.1`, the agent inherits your Claude Code session (no `ANTHROPIC_API_KEY`), and history snapshots land alongside the file so a bad round can be rolled back from disk. One-command install: `bunx @levistudio/redline ./your-file.md`. MIT-licensed.
+
 
 ### Babelmark
 
