@@ -20,6 +20,8 @@
 
 **Dualmark**  (web: [dualmark.dev](https://dualmark.dev), github: [dodopayments/dualmark](https://github.com/dodopayments/dualmark), npm: [@dualmark/core](https://www.npmjs.com/package/@dualmark/core)) Markdown-first web infrastructure. Auto-generates a markdown twin of every page (e.g. `/pricing` + `/pricing.md`) and serves it via HTTP content negotiation when AI crawlers visit — same URL, two formats. TypeScript, Apache 2.0, adapters for Astro, Next.js, and Cloudflare Workers.
 
+**Redline**  (web: [redline.levistudio.net](https://redline.levistudio.net), github: [alevi/redline](https://github.com/alevi/redline), npm: [@levistudio/redline](https://www.npmjs.com/package/@levistudio/redline)) — by Alon Levi at Levi Studio. Local inline-comment review tool for markdown files, designed for human-in-the-loop AI doc review. Open a `.md`, highlight any sentence, leave an inline comment; a Claude agent replies in the comment thread within seconds, suggests edits, and rewrites the document when you accept the round. The next round opens with the rewrite shown inline as a diff. Local-first: the server binds to `127.0.0.1`, the agent inherits your Claude Code session (no `ANTHROPIC_API_KEY`), and history snapshots land alongside the file so a bad round can be rolled back from disk. One-command install: `bunx @levistudio/redline ./your-file.md`. MIT-licensed.
+
 
 ### Babelmark
 
