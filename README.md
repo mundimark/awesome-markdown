@@ -458,6 +458,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [Jimmy :octocat:](https://github.com/marph91/jimmy) - Convert your notes to Markdown
 
+### LinkedIn / Career Data to Markdown
+
+- [linkedin2md :octocat:](https://github.com/juanmanueldaza/linkedin2md), [:snake:](https://pypi.org/project/linkedin2md/) - zero-dependency Python CLI to convert LinkedIn data export ZIPs into clean, structured Markdown files optimized for LLM analysis; optional PDF resume generation via `--pdf`
+
 ### Hypertext Markup Language (HTML) to Markdown
 
 Ruby
