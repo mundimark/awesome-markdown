@@ -71,6 +71,7 @@
 
 ### PDF / Office Documents to Markdown
 
+- [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
 
 ### WordStar to Markdown
 
