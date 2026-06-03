@@ -31,7 +31,7 @@
 
 ### Markdown Lint / Style Rule Checker
 
-**slopless**  (github: [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless), npm: [slopless](https://www.npmjs.com/package/slopless)) Deterministic textlint preset and CLI that flags AI-generated and padded English prose without calling an LLM. It catches the common "LLM tells" — hollow framing, fake "not X but Y" contrasts, hedging, em-dash overuse, vacuous closers — and emits reproducible JSON findings, so it runs in CI. Use it via `npx slopless` or as a textlint preset (`"preset-slopless": true`). MIT-licensed.
+**slopless**  (github: [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless), npm: [slopless](https://www.npmjs.com/package/slopless)) Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM. It catches the common "LLM tells" — hollow framing, fake "not X but Y" contrasts, hedging, em-dash overuse, vacuous closers — and emits reproducible JSON findings, so it runs in CI. Use it via `npx slopless` or as a textlint preset (`"preset-slopless": true`). MIT-licensed.
 
 ### Markdown Web Components / Custom Elements
 
