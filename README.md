@@ -317,6 +317,7 @@ to be done
 
 ### Markdown Lint / Style Rule Checker
 
+- [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases like "leverage" / "cutting-edge", punctuation density, zero-width unicode tells). EN+PL, MIT, GitHub Action included.
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [mdlint]() to be done
