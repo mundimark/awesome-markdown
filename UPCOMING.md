@@ -48,6 +48,8 @@
 
 **MDMagic** (web: https://mdmagic.ai, github: https://github.com/MDMagic-MCP/mdmagic-mcp-server) - convert Markdown to Word, PDF, and HTML using your own Word templates - letterhead, fonts, branding applied automatically. Web app + MCP server for Claude, Cursor, OpenClaw, and any MCP-compatible AI assistant. Freemium.
 
+**MarkDone** (web: [markdone.dev](https://markdone.dev/markdown-to-pdf/), github: [SgtKuba/markdone](https://github.com/SgtKuba/markdone)) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account, no server. Freemium.
+
 
 ### Markdown Styles / Documents / Pages
 
