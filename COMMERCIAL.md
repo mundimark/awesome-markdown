@@ -7,3 +7,7 @@
 ### Hypertext Markup Language (HTML) to Markdown
 
 - [Save](https://www.savemarkdown.co), [(Chrome Web Store)](https://chromewebstore.google.com/detail/save-%E2%80%94-web-to-markdown/mamnlljnkigkhppbjhmpdeocobcbobdp) - one-click Chrome extension that turns any webpage into clean Markdown using AI (Gemini). Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS and Windows companion app (Save Vault) stores saves locally and exposes them to Claude via MCP.
+   
+## Markdown to Portable Document Format (PDF)
+
+- [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
