@@ -22,6 +22,8 @@
 
 **Redline**  (web: [redline.levistudio.net](https://redline.levistudio.net), github: [alevi/redline](https://github.com/alevi/redline), npm: [@levistudio/redline](https://www.npmjs.com/package/@levistudio/redline)) — by Alon Levi at Levi Studio. Local inline-comment review tool for markdown files, designed for human-in-the-loop AI doc review. Open a `.md`, highlight any sentence, leave an inline comment; a Claude agent replies in the comment thread within seconds, suggests edits, and rewrites the document when you accept the round. The next round opens with the rewrite shown inline as a diff. Local-first: the server binds to `127.0.0.1`, the agent inherits your Claude Code session (no `ANTHROPIC_API_KEY`), and history snapshots land alongside the file so a bad round can be rolled back from disk. One-command install: `bunx @levistudio/redline ./your-file.md`. MIT-licensed.
 
+**@webc.site/math** (web: [math.webc.site](https://math.webc.site), github: [webc-site/math](https://github.com/webc-site/math), npm: [@webc.site/math](https://www.npmjs.com/package/@webc.site/math)) The world's smallest and fastest TeX-to-MathML compiler for Markdown math formulas (LaTeX/TeX) rendering. Under 4 KB gzipped, zero dependencies, and 3.6x faster than KaTeX. Compiles formulas directly into browser-native MathML Core elements, completely eliminating client-side layout rendering dependencies and heavy font/CSS bundles. Comes with official plugins for markdown-it, marked, and remark.
+
 
 ### Babelmark
 
