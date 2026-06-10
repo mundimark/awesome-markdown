@@ -74,7 +74,6 @@
 ### PDF / Office Documents to Markdown
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
-- [pdfmarkdown.app](https://pdfmarkdown.app) - Free, in-browser PDF to Markdown converter; keeps tables, formulas and images, with side-by-side output you can check. No upload, no signup. Also Markdown to PDF.
 
 ### WordStar to Markdown
 
