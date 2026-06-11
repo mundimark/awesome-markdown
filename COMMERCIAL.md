@@ -14,5 +14,7 @@
 
 ## Markdown to Portable Document Format (PDF)
 
+- [Mermaid Online](https://mermaidonline.org/?utm_source=github&utm_medium=github_awesome_list&utm_campaign=mermaid-online_backlink_outreach&utm_content=awesome_markdown_commercial_pr) - Free browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets. No signup or watermark.
+
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
