@@ -1,4 +1,4 @@
-Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers »](https://github.com/mundimark/awesome-markdown-editors) 
+﻿Awesome Markdown Series - For Editors & (Pre)viewers, see [Awesome Markdown Editors & (Pre)viewers Â»](https://github.com/mundimark/awesome-markdown-editors) 
 
 
 # Awesome Markdown (& Beyond)
@@ -355,13 +355,13 @@ makes developing websites simple (in Ruby)
 
 **Slate** (github: [lord/slate :octocat:](https://github.com/lord/slate)) - beautiful API documentation, based on **Middleman**
 
-**Shins** (github: [`Mermade/shins` :octocat:](https://github.com/Mermade/shins), npm: [`shins`](https://www.npmjs.com/package/shins)) – beautiful API documentation, with node.js (port of **Slate**)
+**Shins** (github: [`Mermade/shins` :octocat:](https://github.com/Mermade/shins), npm: [`shins`](https://www.npmjs.com/package/shins)) â€“ beautiful API documentation, with node.js (port of **Slate**)
 
-**md-fileserver** (github: [md-fileserver :octocat:](https://github.com/commenthol/md-fileserver), npm: [`md-fileserver`](https://www.npmjs.com/package/md-fileserver)) – View markdown files locally in browser.
+**md-fileserver** (github: [md-fileserver :octocat:](https://github.com/commenthol/md-fileserver), npm: [`md-fileserver`](https://www.npmjs.com/package/md-fileserver)) â€“ View markdown files locally in browser.
 
-**Compiiile** (github: [@compiiile/compiiile :octocat:](https://github.com/compiiile/compiiile), npm: [`@compiiile/compiiile`](https://www.npmjs.com/package/@compiiile/compiiile)) – Preview and serve folders containing Markdown files with full-text search and presentation slides.
+**Compiiile** (github: [@compiiile/compiiile :octocat:](https://github.com/compiiile/compiiile), npm: [`@compiiile/compiiile`](https://www.npmjs.com/package/@compiiile/compiiile)) â€“ Preview and serve folders containing Markdown files with full-text search and presentation slides.
 
-**ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd) – The simplest way to convert a folder of Markdown files into a site of HTML files.
+**ZenMD** (github: [`@randomor/zenmd`](https://github.com/randomor/zenmd), npm: [`zenmd`](https://www.npmjs.com/package/zenmd) â€“ The simplest way to convert a folder of Markdown files into a site of HTML files.
 
 **markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of Markdown website
 
@@ -392,15 +392,16 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 **nodePPT** (github: [`nodePPT`](https://github.com/ksky521/nodePPT)) - A web presentation tool supporting markdown based on GFM.
 
-**Deckset** (website: [Deckset](http://www.decksetapp.com)) – A macOS desktop app that renders Markdown presentations in beautifully designed templates.
+**Deckset** (website: [Deckset](http://www.decksetapp.com)) â€“ A macOS desktop app that renders Markdown presentations in beautifully designed templates.
 
-**GitPitch** (website: [GitPitch](http://gitpitch.com/), github: [gitpitch :octocat:](https://github.com/gitpitch/gitpitch/)) – Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. [Example](https://gitpitch.com/gitpitch/gitpitch/master)
+**GitPitch** (website: [GitPitch](http://gitpitch.com/), github: [gitpitch :octocat:](https://github.com/gitpitch/gitpitch/)) â€“ Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. [Example](https://gitpitch.com/gitpitch/gitpitch/master)
 
 **zoetic** (github [zoetic](https://github.com/kantord/zoetic)) - Markdown presentations with your webcam as your background while presenting
 
 **markdeep-slides** (github: [markdeep-slides](https://github.com/doersino/markdeep-slides)) - Browser-side rendering of Markdown as slide deck
 
 ### Markdown to Portable Document Format (PDF)
+- [Markdown Tools Online](https://markdowntoolsonline.com/markdown-to-pdf) - Free online Markdown to PDF converter with styled output. ![Globe][globe]
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
 - [em-dee-pdf :octocat:](https://github.com/brendandebeasi/em-dee-pdf) - converts Markdown files to styled PDFs using Typst with 18 built-in themes, LaTeX math, and syntax highlighting
@@ -506,7 +507,7 @@ Generate API documentation from source code in Markdown, then host it on the web
 
 ### Technical Documentation to Markdown
 
-- [dita-ot-markdown](https://github.com/jelovirt/dita-ot-markdown) – converts DITA into Markdown, integrates with standard DITA OT toolchain 
+- [dita-ot-markdown](https://github.com/jelovirt/dita-ot-markdown) â€“ converts DITA into Markdown, integrates with standard DITA OT toolchain 
 
 ### Screencast to Markdown
 
@@ -523,7 +524,7 @@ JavaScript / Node.js
 
 - [Softcover.io](https://www.softcover.io) - publish from the comfort of your command-line by Michael Hartl et al 
     - [Softcover :octocat:](https://github.com/softcover/softcover), [:gem:](https://rubygems.org/gems/softcover) - a command line tool for book generation, building, and publishing 
-- [GitBook.com](https://www.gitbook.com)  - write and publish books with Markdown and Git by Samy Pessé et al
+- [GitBook.com](https://www.gitbook.com)  - write and publish books with Markdown and Git by Samy PessÃ© et al
     - [GitBook :octocat:](https://github.com/GitbookIO/gitbook) - a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc)
     
 <!-- break -->
