@@ -9,6 +9,14 @@
 
 ### Markdown Libraries & Tools
 
+**Markdown Table Editor**
+(web: [markdowntableeditor.krot.name](https://markdowntableeditor.krot.name/),
+github: [krotname/IdeaMarkdownTableEditor](https://github.com/krotname/IdeaMarkdownTableEditor),
+[krotname/NppMarkdownTableEditor](https://github.com/krotname/NppMarkdownTableEditor)) -
+Open-source Markdown pipe-table editing tools for JetBrains IDEs and Notepad++.
+They align and reformat tables, move rows and columns, sort data, fit wide tables to the editor,
+convert CSV/TSV blocks, and handle escaped pipes plus Unicode/CJK display widths.
+
 
 **mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
