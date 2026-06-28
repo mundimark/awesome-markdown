@@ -24,6 +24,8 @@
 
 **@webc.site/math** (web: [math.webc.site](https://math.webc.site), github: [webc-site/math](https://github.com/webc-site/math), npm: [@webc.site/math](https://www.npmjs.com/package/@webc.site/math)) The world's smallest and fastest TeX-to-MathML compiler for Markdown math formulas (LaTeX/TeX) rendering. Under 4 KB gzipped, zero dependencies, and 3.6x faster than KaTeX. Compiles formulas directly into browser-native MathML Core elements, completely eliminating client-side layout rendering dependencies and heavy font/CSS bundles. Comes with official plugins for markdown-it, marked, and remark.
 
+**Embridge** (web: [embridge.net](https://embridge.net), github: [embridge-foundation/embridge](https://github.com/embridge-foundation/embridge), npm: [embridge](https://www.npmjs.com/package/embridge)) Markdown-based item and task list format that aims to be flexible and human-friendly while providing enough structure for automated parsers and AI agents. With stable IDs, metadata fields, comments, attachments, and a reference validator. Suitable for Kanban boards and calendars too.
+
 
 ### Babelmark
 
