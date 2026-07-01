@@ -390,6 +390,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 **Markpress** (github: [`markpress`](https://github.com/gamell/markpress)) - A command line tool and node package to convert markdown files into self-contained [impressjs](https://github.com/impress/impress.js/) html presentations. [Example](https://gamell.github.io/markpress) 
 
+**MDPR** (github: [`MdPr`](https://github.com/ch040602/MdPr), companion: [`mdpr-skill`](https://github.com/ch040602/mdpr-skill)) - A deterministic Markdown-to-editable-PowerPoint runtime with HTML/PDF previews, visual validation, and optional Codex review hints.
+
 **nodePPT** (github: [`nodePPT`](https://github.com/ksky521/nodePPT)) - A web presentation tool supporting markdown based on GFM.
 
 **Deckset** (website: [Deckset](http://www.decksetapp.com)) – A macOS desktop app that renders Markdown presentations in beautifully designed templates.
