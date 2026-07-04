@@ -41,6 +41,12 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 - [Text w/ Instructions Syntax Samples](https://github.com/texti/texti.github.io/tree/master/samples)  - Idea - let's take a wikipedia page (in wikitext markup) and rewrite in markdown, latex, and yes, text w/ instructions!
 
 
+**Carve** (web: <https://markup-carve.github.io/carve/>, github: <https://github.com/markup-carve/carve>) - by Mark Scherer (Germany); a post-markdown lightweight markup language deriving from djot and commonmark. It distinguishes three separate inline marks - `*strong*`, `/emphasis/`, and `_underline_` - and adds math, definition lists, footnotes, citations, cross-references, and generic containers, with multiple engine implementations in JavaScript, Rust, and PHP.
+
+- [Carve Playground & Docs](https://markup-carve.github.io/carve/)
+- [Awesome Carve](https://github.com/markup-carve/awesome-carve) - curated list of Carve resources, tools, and libraries
+
+
 
 Yes, you can!  Add your improved beyond markdown light markup syntax / language here.
 
