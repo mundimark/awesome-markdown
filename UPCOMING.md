@@ -26,6 +26,8 @@
 
 **Embridge** (web: [embridge.net](https://embridge.net), github: [embridge-foundation/embridge](https://github.com/embridge-foundation/embridge), npm: [embridge](https://www.npmjs.com/package/embridge)) Markdown-based item and task list format that aims to be flexible and human-friendly while providing enough structure for automated parsers and AI agents. With stable IDs, metadata fields, comments, attachments, and a reference validator. Suitable for Kanban boards and calendars too.
 
+**MDMA** (web: [mdma.software](https://mdma.software), github: [MobileReality/mdma](https://github.com/MobileReality/mdma), npm: [@mobile-reality/mdma-renderer-react](https://www.npmjs.com/package/@mobile-reality/mdma-renderer-react)) Markdown Document with Mounted Applications — extends Markdown with interactive components (forms, tables, approval gates, charts, callouts, webhooks) declared in fenced ` ```mdma ` blocks, so an LLM responds with validated, renderable UI instead of plain text. Parser is a remark plugin; ships a React renderer, a validator, a prompt-pack, a CLI, and an MCP server. Open source, MIT. Built by [Mobile Reality](https://themobilereality.com).
+
 
 ### Babelmark
 
