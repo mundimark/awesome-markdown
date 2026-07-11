@@ -498,6 +498,7 @@ JavaScript / Node.js
 More
 
 - [heckyesmarkdown.com](http://heckyesmarkdown.com) - instantly convert a webpage to markdown; the service presents a simple interface that converts any reasonable web page into markdown (note: the service seems to use the Readability API to remove all the non-content cruft from the source page before proceeding with markdownification)
+- [Markdown Web Clipper :octocat:](https://github.com/Tigrandza/markdown-web-clipper) - free, MIT-licensed Chrome extension that converts any webpage to clean Markdown (tables, code blocks, math, footnotes) and saves it to a local folder, GitHub Gist, or the clipboard
 
 ### Source Code to Markdown
 
