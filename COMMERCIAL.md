@@ -16,6 +16,10 @@
 
 - [tweet.md](https://tweet.md) - Replace x.com with tweet.md in any post, article or profile URL - get back clean Markdown.
 
+### Spreadsheet / CSV to Markdown
+
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - convert XLSX, XLS, and CSV files to Markdown tables locally in the browser, with sheet selection, header and alignment controls, and copy/download output. No upload or signup. Free.
+
 ## Markdown to Portable Document Format (PDF)
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
