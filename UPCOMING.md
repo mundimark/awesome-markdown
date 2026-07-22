@@ -28,6 +28,8 @@
 
 **MDMA** (web: [mdma.software](https://mdma.software), github: [MobileReality/mdma](https://github.com/MobileReality/mdma), npm: [@mobile-reality/mdma-renderer-react](https://www.npmjs.com/package/@mobile-reality/mdma-renderer-react)) Markdown Document with Mounted Applications — extends Markdown with interactive components (forms, tables, approval gates, charts, callouts, webhooks) declared in fenced ` ```mdma ` blocks, so an LLM responds with validated, renderable UI instead of plain text. Parser is a remark plugin; ships a React renderer, a validator, a prompt-pack, a CLI, and an MCP server. Open source, MIT. Built by [Mobile Reality](https://themobilereality.com).
 
+**Plans**  (web: [yrangana.github.io/Plans](https://yrangana.github.io/Plans/), github: [yrangana/Plans](https://github.com/yrangana/Plans)) Markdown convention for tracking multi-feature development work. One markdown file per feature with a seven-field frontmatter spec (status, priority, owner, type, depends_on, blocks, last_updated), a STATUS.md front door, and a generated plans.json. Ships a static roadmap.html that renders a Gantt chart and dependency graph from the same files, with no server and no build step. MIT, plain markdown and JSON throughout.
+
 
 ### Babelmark
 
