@@ -9,7 +9,10 @@
 
 ### Markdown Libraries & Tools
 
-\n**Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.\n\n
+
+**Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
+
+
 **mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
 **md-viewer-py**  (GitHub: [bot-anica/md-viewer-py](https://github.com/bot-anica/md-viewer-py), PyPI: [md-viewer-py](https://pypi.org/project/md-viewer-py/)) Drop-in Markdown viewer for any folder. It works locally. Its main features: dashboard, live reload, dark/light themes, in-browser editing, 3 types of search as in Webstorm: search in current file, search in all files, search files by names.
