@@ -47,6 +47,8 @@
 
 ### Markdown to Email
 
+**emailmd**  (web: [emailmd.dev](https://www.emailmd.dev), github: [anypost/emailmd](https://github.com/anypost/emailmd), npm: [emailmd](https://www.npmjs.com/package/emailmd)) Markdown renderer for email: write markdown, get email-safe HTML that holds up in Outlook and Gmail, plus the plain text version. Handles the client quirks you would otherwise hand-code around, so templates stay the same syntax you already write in READMEs and chat. Directives cover what email needs and markdown lacks: buttons, callouts, columns, heroes, footers, social links. Ships a CLI, a React builder you can drop into your own app, ready-made templates, and a hosted MCP server for drafting, linting, and previewing emails from an AI assistant. MIT-licensed, sponsored by [Anypost](https://anypost.com/).
+
 
 ### Markdown to Presentation / Slideshow
 
