@@ -35,6 +35,8 @@
 
 **Plans**  (web: [yrangana.github.io/Plans](https://yrangana.github.io/Plans/), github: [yrangana/Plans](https://github.com/yrangana/Plans)) Markdown convention for tracking multi-feature development work. One markdown file per feature with a seven-field frontmatter spec (status, priority, owner, type, depends_on, blocks, last_updated), a STATUS.md front door, and a generated plans.json. Ships a static roadmap.html that renders a Gantt chart and dependency graph from the same files, with no server and no build step. MIT, plain markdown and JSON throughout.
 
+**wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
+
 
 ### Babelmark
 
