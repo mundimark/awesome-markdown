@@ -2,6 +2,11 @@
 # Awesome Markdown - The Commercial Edition
 
 
+## Markdown Link Validation
+
+- [Markdown Link Checker](https://alltoolsverse.com/tools/markdown-link-checker/) - scan inline Markdown links, extract labels and destinations, and flag empty or malformed URLs. Runs locally in the browser with no signup.
+
+
 ## Convert to Markdown Tools
 
 ### Hypertext Markup Language (HTML) to Markdown
