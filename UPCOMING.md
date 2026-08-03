@@ -37,6 +37,8 @@
 
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
+**Glyph (macOS)** (web: [`glyphformac.com`](https://glyphformac.com), github: [`SidhuK/Glyph`](https://github.com/SidhuK/Glyph)) Offline-first Markdown notes app for macOS with local file storage, search, tasks, and optional AI tools. AGPL-3.0 source; official builds are a paid one-time purchase with a 7-day trial.
+
 
 ### Babelmark
 
