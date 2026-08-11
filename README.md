@@ -459,6 +459,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [word-to-markdowm gem :octocat:](https://github.com/benbalter/word-to-markdown), [:gem:](https://rubygems.org/gems/word-to-markdown) - "liberate" content from the jail that is Microsoft Word documents; converts to plain-text Markdown
 
+- [fixmyformatting.com/word-to-markdown](https://fixmyformatting.com/word-to-markdown) - paste rich text from Word or Google Docs and get clean Markdown back; free, runs fully client-side in the browser, no signup
+
 ### PDF / Office Documents to Markdown
 
 - [doc2md :octocat:](https://github.com/orangefineblue/doc2md) - high-fidelity PDF, DOCX, and PPTX to Markdown conversion pipeline with multi-extractor support (pymupdf, pdfplumber, MinerU), image extraction, per-image classification, and multi-stage quality control
