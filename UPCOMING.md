@@ -55,6 +55,8 @@
 
 **Glyph** (web: [`glyph-md.github.io`](https://glyph-md.github.io), github: [`hamidfzm/glyph` :octocat:](https://github.com/hamidfzm/glyph)) - native, cross-platform desktop app to view and edit folders of Markdown, with export to HTML, PDF, DOCX, and EPUB. GitHub Flavored Markdown, KaTeX math, Mermaid diagrams, wikilinks, and a graph view. Free & open source (MIT), built with Rust/Tauri.
 
+**MD Reader** (github: [andersyin/md-reader](https://github.com/andersyin/md-reader)) - A zero-dependency, single-file HTML markdown reader (77KB). TOC sidebar, full-text search, speed-reading panel, AI summary cards, XSS hardening. Double-click to open. No install. No server. No cloud.
+
 
 ### Markdown to Email
 
