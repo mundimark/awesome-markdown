@@ -70,6 +70,7 @@
 
 ### Markdown Styles / Documents / Pages
 
+**md2docx-cn** (web: [codex2026-user.github.io/md2docx-cn](https://codex2026-user.github.io/md2docx-cn/), github: [codex2026-user/md2docx-cn](https://github.com/codex2026-user/md2docx-cn)) - Python CLI that converts Chinese Markdown articles to DOCX with local processing and built-in typography defaults for headings, indentation, line spacing, and margins. MIT-licensed.
 
 ### Markdown to Books
 
