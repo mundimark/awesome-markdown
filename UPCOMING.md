@@ -10,6 +10,9 @@
 ### Markdown Libraries & Tools
 
 
+**MarkGleam** (web: [markgleam.com](https://markgleam.com/en/), source: [chess99/MarkGleam](https://github.com/chess99/MarkGleam)) Browser-local workspace for turning Markdown, code, Mermaid, and LaTeX into PNG, WebP, SVG, or PDF, including long-image slicing and public README import.
+
+
 **Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
 
 
