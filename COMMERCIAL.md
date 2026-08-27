@@ -25,6 +25,7 @@
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
+- [PX7 Markdown Typeset](https://markdown.px7.digital/typeset/), [(GitHub)](https://github.com/px7digital/px7-markdown-typeset) - native macOS app that previews local Markdown and exports paginated A4 PDF with Manuscript, Modern, or Academic themes. Runs locally on Apple silicon and Intel Macs. Seven-day trial; EUR 12 once.
 
 ## Mermaid Diagrams to Portable Document Format (PDF)
 
