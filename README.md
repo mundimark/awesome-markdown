@@ -303,6 +303,9 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **mdcode**
 (github: [mdcode](https://github.com/szkiba/mdcode)) Markdown code block authoring tool. It enables testable code blocks, with two-way synchronization between code blocks and source files.
 
+**mdoctest**
+(github: [mdoctest](https://github.com/ingrid-owusu/mdoctest), pypi: [mdoctest](https://pypi.org/project/mdoctest/)) Doctest for Markdown, in any language. Runs the console sessions and code blocks in your README/docs and checks their output still matches; `--fix` rewrites them for you. Zero dependencies; ships as a pre-commit hook and a GitHub Action.
+
 **quikdown**
   ([web](https://deftio.github.io/quikdown/), [npm](https://www.npmjs.com/package/quikdown), [github 
   :octocat:](https://github.com/deftio/quikdown)) Lightweight (10KB) markdown parser with bidirectional
