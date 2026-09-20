@@ -46,6 +46,9 @@
 
 ### Markdown Lint / Style Rule Checker
 
+**slop-grader**  (github: [lukstei/slop-grader](https://github.com/lukstei/slop-grader), npm: [@lukstei/slop-grader](https://www.npmjs.com/package/@lukstei/slop-grader)) Rule-based CLI tool powered by TypeSafe Jev that evaluates Markdown and text quality against custom rulesets. It produces document scores and line-by-line violation flags specifically designed to guide auto-fixing with an AI agent. MIT-licensed.
+
+
 **slopless**  (github: [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless), npm: [slopless](https://www.npmjs.com/package/slopless)) Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM. It catches the common "LLM tells" — hollow framing, fake "not X but Y" contrasts, hedging, em-dash overuse, vacuous closers — and emits reproducible JSON findings, so it runs in CI. Use it via `npx slopless` or as a textlint preset (`"preset-slopless": true`). MIT-licensed.
 
 ### Markdown Web Components / Custom Elements
