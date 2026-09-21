@@ -274,6 +274,11 @@ Character encoding
 a universal document converter (in Haskell)
 
 
+**PostForge**
+(github: [`la2278647-arch/postforge`](https://github.com/la2278647-arch/postforge)) -
+open-source Markdown typesetting engine that converts Markdown to publisher-ready rich text for 16 Chinese/international content platforms, with fully inline styles, 11 themes, 12 starter templates, pre-publish lint, and an MCP server (in Node.js)
+
+
 **kramdown**
 (web: [`kramdown.gettalong.org`](http://kramdown.gettalong.org),
  github: [`gettalong/kramdown`](https://github.com/gettalong/kramdown),
