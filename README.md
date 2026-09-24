@@ -99,6 +99,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Source Code to Markdown](#source-code-to-markdown)
   * [Technical Documentation to Markdown](#technical-documentation-to-markdown)
   * [Screencast to Markdown](#screencast-to-markdown)
+  * [YouTube Video to Markdown](#youtube-video-to-markdown)
   * [JSON to Markdown](#json-to-markdown)
 * [Book Services](#book-services)
 * [Markdown protocol](#protocol)
@@ -520,6 +521,10 @@ Generate API documentation from source code in Markdown, then host it on the web
 ### Screencast to Markdown
 
 - [Paircast](https://paircast.io) - Combines desktop video, git diffs, and voice transcriptions into markdown documentation.
+
+### YouTube Video to Markdown
+
+- [Video to Markdown](https://video-to-markdown.com), [:octocat:](https://github.com/mikecann/video-to-markdown) - turns a YouTube URL into a markdown image link that shows the video thumbnail with a play button, for READMEs and docs; free HTTP API, no key needed
 
 ### JSON to Markdown
 
