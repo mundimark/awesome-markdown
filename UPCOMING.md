@@ -38,6 +38,9 @@
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
 
+**Sanemark** (github: [nkitsaini/sanemark](https://github.com/nkitsaini/sanemark)) - Markdown language server and command-line tool for note-taking. Provides standard Markdown file-link completion, link navigation, broken-link diagnostics, daily notes, table formatting, and reference-link organization. Supports VS Code, Zed, Neovim, and other LSP clients. Written in Rust, MIT-licensed.
+
+
 ### Babelmark
 
 
