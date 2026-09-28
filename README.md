@@ -331,6 +331,7 @@ to be done
 
 - [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases like "leverage" / "cutting-edge", punctuation density, zero-width unicode tells). EN+PL, MIT, GitHub Action included.
 - [darnlink](https://github.com/txemi/darnlink) - Python CLI that repairs Markdown links whose target moved (anchored by a UUID) and robustifies plain ones; report-only pre-commit/CI gate. GitHub Action & pre-commit hook included.
+- [Markdown Table Validator](https://github.com/edilec/markdown-table-validator) - MIT Node.js CLI that checks GitHub Flavored Markdown tables for column shape, escaping, alignment and optional content rules; its formatting preview does not rewrite input files.
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files offering a good set of defaults. Allows for customization.
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [mdlint]() to be done
