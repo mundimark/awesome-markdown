@@ -47,6 +47,12 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 - [Awesome Carve](https://github.com/markup-carve/awesome-carve) - curated list of Carve resources, tools, and libraries
 
 
+**GEML (General Expressive Markup Language)** (web: <https://geml-spec.github.io/geml/>, github: <https://github.com/geml-spec/geml>) - by the geml-spec project; a plain-text markup language that keeps Markdown's prose and replaces its many special-case blocks with one typed block, `=== type {attrs}`, for code, tables, math, diagrams, data, notes and embeds. Every block is addressable by `#id`, references are checked at build time, and a `.gemlhistory` sidecar keeps block-level history. Its reference parser also reads plain Markdown files directly.
+
+- [GEML Specification](https://github.com/geml-spec/geml/blob/main/spec/GEML-spec.md)
+- [GEML Playground](https://geml-spec.github.io/geml/playground/) - edit on the left, rendered on the right, with the build verdict live
+
+
 
 Yes, you can!  Add your improved beyond markdown light markup syntax / language here.
 
