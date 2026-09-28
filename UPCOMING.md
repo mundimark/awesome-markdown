@@ -48,6 +48,8 @@
 
 **slopless**  (github: [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless), npm: [slopless](https://www.npmjs.com/package/slopless)) Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM. It catches the common "LLM tells" — hollow framing, fake "not X but Y" contrasts, hedging, em-dash overuse, vacuous closers — and emits reproducible JSON findings, so it runs in CI. Use it via `npx slopless` or as a textlint preset (`"preset-slopless": true`). MIT-licensed.
 
+**seiso**  (github: [scarletkc/seiso](https://github.com/scarletkc/seiso), crates: [seiso](https://crates.io/crates/seiso), pypi: [seiso](https://pypi.org/project/seiso/), npm: [@scarletkc/seiso](https://www.npmjs.com/package/@scarletkc/seiso)) Markdown convention and linter for project docs written by AI and read by humans and agents. Each document declares a kind such as how-to, reference, or ADR, and the rules check kind declarations, local links and anchors, facts restated across pages, values that go stale such as versions and deployment state, and conversation remnants left in the page. Each diagnostic names the location and the fix. Stable rules run by default and the rest are opt-in previews. Works on English, Chinese, and Japanese docs, with a Claude Code hook, a pre-commit hook, and CI output. Written in Rust, MIT-licensed.
+
 ### Markdown Web Components / Custom Elements
 
 
