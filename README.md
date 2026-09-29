@@ -258,6 +258,7 @@ Character encoding
 - [Markdown Cheatsheet :octocat:](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [The Ultimate Markdown Cheat Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 - [Markdown Cheat Sheet & Flavor Compatibility Matrix](https://www.markdowntools.io/cheat-sheet) - Cross-platform cheat sheet with GitHub / Obsidian / Jupyter / Discord / Slack support states per feature, plus printable PDFs.
+- [Markdown Cheat Sheet (Markdown Bench)](https://markdownbench.com/markdown-cheat-sheet/) - Every basic and extended element with the exact characters to type and the rendered result, a CommonMark / GFM / Obsidian / Pandoc / Markdown Extra comparison (tables, task lists, footnotes), and a table of common gotchas.
 
 ### Markdown Getting Started Guides / Tutorials
 
@@ -493,6 +494,7 @@ Ruby
 - [unmarkdown :octocat:](https://github.com/soffes/unmarkdown), [:gem:](https://rubygems.org/gems/unmarkdown) - convert HTML to Markdown
 - [upmark :octocat:](https://github.com/conversation/upmark), [:gem:](https://rubygems.org/gems/upmark) - a HTML to Markdown converter
 - [remark :octocat:](https://github.com/mislav/remark) - HTML to Markdown converter in Ruby
+- [HTML to Markdown (Markdown Bench)](https://markdownbench.com/html-to-markdown/) - paste rich text from Word, Google Docs or a web page (or raw HTML) and get GitHub Flavored Markdown with tables; runs client-side on turndown, nothing uploaded
 
 
 JavaScript / Node.js
