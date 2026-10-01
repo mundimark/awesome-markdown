@@ -94,6 +94,8 @@
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
 
+- [MarkdownPDF](https://markdownpdf.app) [:octocat:](https://github.com/mouradoumattotto/markdownpdf) - Free PDF to Markdown converter that runs entirely in the browser (no upload, no signup). It rebuilds headings, lists, tables, and multi-column layouts, and OCRs scanned pages with tesseract.js. It also converts Markdown to PDF and DOCX.
+
 ### WordStar to Markdown
 
 ### Various Note Formats to Markdown
