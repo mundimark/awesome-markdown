@@ -379,6 +379,8 @@ makes developing websites simple (in Ruby)
 
 **markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of Markdown website
 
+**MD Publisher** (web: [alapha888.github.io/md-publisher](https://alapha888.github.io/md-publisher/), github: [alapha888/md-publisher](https://github.com/alapha888/md-publisher)) - Free web app and Edge browser extension that converts Markdown to styled, copy-paste-ready HTML for WeChat Official Accounts, Zhihu, and Juejin.
+
 ### Markdown to Email
 
 **Markdown Here**
