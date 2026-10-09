@@ -16,6 +16,7 @@
 ### PDF to Markdown
 
 - [pdfmarkdown.app](https://pdfmarkdown.app) - free, in-browser PDF to Markdown converter; keeps tables, formulas and images, with side-by-side output you can check. No upload, no signup. Also Markdown to PDF.
+- [PDFtip](https://www.pdftip.com/pdf-to-markdown) - free, client-side WebAssembly PDF to Markdown converter; preserves headings, tables, and lists for LLMs and Obsidian. Zero server uploads, no signup.
 
 ### Social Media to Markdown
 
