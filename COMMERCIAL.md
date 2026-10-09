@@ -25,6 +25,7 @@
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
+- [TypeFire Markdown to PDF](https://typefire.ai/markdown-to-pdf) - write or open a .md file in the browser, see it formatted as you type, and save it as a PDF through the print dialog. Also exports HTML and Markdown. No upload, no signup. Free.
 
 ## Mermaid Diagrams to Portable Document Format (PDF)
 
