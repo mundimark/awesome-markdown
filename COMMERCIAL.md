@@ -12,7 +12,9 @@
 ### Hypertext Markup Language (HTML) to Markdown
 
 - [Minibase](https://www.minibase.md), [(Chrome Web Store)](https://chromewebstore.google.com/detail/mamnlljnkigkhppbjhmpdeocobcbobdp) - one-click browser extension (Chrome and Firefox) that turns any webpage into clean Markdown using AI. Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS and Windows companion app (Minibase Vault) stores saves locally and exposes them to Claude via MCP. (formerly Save)
-   
+
+- [xulsvalt](https://olosyn.com) - free browser-based vault audit and Markdown converters: wikilink, graph, frontmatter, callout and embed checks plus Ghost, Notion, Obsidian, Hugo and batch CMS conversion. Client-side only, no signup.
+
 ### PDF to Markdown
 
 - [pdfmarkdown.app](https://pdfmarkdown.app) - free, in-browser PDF to Markdown converter; keeps tables, formulas and images, with side-by-side output you can check. No upload, no signup. Also Markdown to PDF.
