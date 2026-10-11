@@ -66,6 +66,7 @@
 ### Markdown to Portable Document Format (PDF)
 
 **MDMagic** (web: https://mdmagic.ai, github: https://github.com/MDMagic-MCP/mdmagic-mcp-server) - convert Markdown to Word, PDF, and HTML using your own Word templates - letterhead, fonts, branding applied automatically. Web app + MCP server for Claude, Cursor, OpenClaw, and any MCP-compatible AI assistant. Freemium.
+**Toolspike Markdown to PDF** (web: [toolspike.com/tools/markdown-to-pdf](https://toolspike.com/tools/markdown-to-pdf)) - Typeset Markdown as a searchable, bookmarked PDF in the browser. Freemium.
 
 
 ### Markdown Styles / Documents / Pages
@@ -93,6 +94,7 @@
 ### PDF / Office Documents to Markdown
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
+- [Toolspike PDF to Markdown](https://toolspike.com/tools/pdf-to-markdown) - Convert a PDF to clean Markdown in the browser.
 
 ### WordStar to Markdown
 
