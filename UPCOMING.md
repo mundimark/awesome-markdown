@@ -67,6 +67,8 @@
 
 **MDMagic** (web: https://mdmagic.ai, github: https://github.com/MDMagic-MCP/mdmagic-mcp-server) - convert Markdown to Word, PDF, and HTML using your own Word templates - letterhead, fonts, branding applied automatically. Web app + MCP server for Claude, Cursor, OpenClaw, and any MCP-compatible AI assistant. Freemium.
 
+**md-to-word** (github: [ls18166407597-design/md-to-word](https://github.com/ls18166407597-design/md-to-word)) Markdown to standards-compliant Word (`.docx`) for documents whose typography is graded rather than free-form - theses, journal submissions, official documents. Layout lives in a plain-text `requirements.txt` (one rule per line: paper size, margins, per-style font, size, spacing, indent) compiled through a pure Word 365 reference template. Covers three-line academic tables with repeating header rows, display equations centered with right-aligned equation numbers, and section pagination (Roman front matter to Arabic body). A CLI plus an AI agent skill, with three deterministic gates before delivery. MIT-licensed; verified on macOS, Windows untested.
+
 
 ### Markdown Styles / Documents / Pages
 
