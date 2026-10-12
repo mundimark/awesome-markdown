@@ -85,6 +85,11 @@
 ### Markdown to Notion
 
 
+### Markdown to WhatsApp
+
+**Markdown to WhatsApp**  (web: [drsound.github.io/markdown-to-whatsapp](https://drsound.github.io/markdown-to-whatsapp/), github: [drsound/markdown-to-whatsapp](https://github.com/drsound/markdown-to-whatsapp), npm: [markdown-to-whatsapp](https://www.npmjs.com/package/markdown-to-whatsapp)) Converts Markdown into the formatting WhatsApp actually renders: `*bold*`, `_italic_`, `~strike~`, monospace, lists and quotes. Tables are the hard part, because a WhatsApp bubble fits about 26 monospace characters on a line and a chat has no horizontal scroll, so a table is drawn as a box that degrades in steps — cell padding removed, then borders, then cells word-wrapped — and falls back to a bulleted list only when no box fits. Column widths are measured in display cells, so emoji and CJK text stay aligned. The web page runs entirely in the browser with nothing uploaded; the same converter also ships as an npm library, a CLI and an MCP server for AI agents. MIT-licensed.
+
+
 ## Convert to Markdown Tools
 
 ### Microsoft Word to Markdown
