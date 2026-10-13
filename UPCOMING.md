@@ -37,6 +37,8 @@
 
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
+**MD2X**  (web: [markdown2x.com](https://markdown2x.com/markdown-table-to-image), github: [echoVic/x-article-md](https://github.com/echoVic/x-article-md)) Free, client-side converter that renders Markdown tables, code blocks and Mermaid diagrams as PNG images, and whole Markdown documents as rich text for X (Twitter) Articles.
+
 
 ### Babelmark
 
