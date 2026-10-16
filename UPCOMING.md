@@ -101,6 +101,8 @@
 
 ### Hypertext Markup Language (HTML) to Markdown
 
+**Markdownee** (web: [markdownee.com](https://www.markdownee.com/), github: [markdownee/markdownee](https://github.com/markdownee/markdownee)) Web crawler and scraper that extracts main content as Markdown, HTML or plain text using Trafilatura Core. Available as a self-hosted npm CLI, TypeScript and native Python libraries (Apache-2.0), and an optional hosted Apify Actor API.
+
 
 ### Source Code to Markdown
 
