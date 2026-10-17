@@ -454,6 +454,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 * **markedpp** (github: [markedpp :octocat:](https://github.com/commenthol/markedpp)) adds support for table-of-contents (TOC), numbered headings, includes other markdown files and/or create reference lists for use with different markdown processors like [marked](#marked), [markdown-it](#markdown-it), [pandoc](#pandoc) or for hosting on github.com, gitlab.com, bitbucket.org or ghost.org.
 
+* **puml-for-markdown** ([npm](https://www.npmjs.com/package/puml-for-markdown), github: [puml-for-markdown :octocat:](https://github.com/danielyaa5/puml-for-markdown)) CLI that renders PlantUML diagrams referenced in Markdown comments into image links, so they show up on GitHub, which doesn't render PlantUML. Diagrams can link to each other, and it can also export local PNG/SVG files.
+
 ### Markdown to Notion
 
 * [mk-notes](https://github.com/Myastr0/mk-notes) - Sync your local Markdown files seamlessly to Notion. Keep writing in Markdown and let mk-notes handle the integration.
