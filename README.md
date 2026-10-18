@@ -390,6 +390,13 @@ besides email also works with Evernote, Google Groups, Blogger, and more
 
 
 
+**Markdown to Google Docs**
+(web: [`maniruzzamanjubayer.com/tools/markdown-to-google-docs`](https://maniruzzamanjubayer.com/tools/markdown-to-google-docs)) -
+paste Markdown (for example from an AI chat) and copy it as rich text into Gmail, Google Docs or Word,
+with headings, lists, tables and code kept; runs in the browser
+
+
+
 ### Markdown to Presentation / Slideshow
 
 **Slide Show (S9)**
