@@ -92,6 +92,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
   * [Markdown to Email](#markdown-to-email)
   * [Markdown to Presentation / Slideshow](#markdown-to-presentation--slideshow)
   * [Markdown to Portable Document Format (PDF)](#markdown-to-portable-document-format-pdf)
+  * [Markdown to Microsoft Word (DOCX)](#markdown-to-microsoft-word-docx)
   * [Markdown Styles / Documents / Pages](#markdown-styles--documents--pages)
   * [Markdown to Books](#markdown-to-books)
   * [Markdown to Table of Contents (TOC)](#markdown-to-table-of-contents-toc)
@@ -420,6 +421,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 - [em-dee-pdf :octocat:](https://github.com/brendandebeasi/em-dee-pdf) - converts Markdown files to styled PDFs using Typst with 18 built-in themes, LaTeX math, and syntax highlighting
 - [Resumx](https://resumx.dev) [:octocat:](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting that outputs PDF, HTML, DOCX, and PNG
 
+
+### Markdown to Microsoft Word (DOCX)
+
+- [PrivateConverter](https://privateconverter.com) - Free browser-based Markdown to Word (.docx) converter (a hosted web tool, not open source); files are converted locally in the browser and never uploaded.
 
 ### Markdown Styles / Documents / Pages
 
