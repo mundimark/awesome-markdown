@@ -38,6 +38,9 @@
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
 
+**Keep Every Cell** (web: [lydiatools.github.io/keep-every-cell](https://lydiatools.github.io/keep-every-cell/), github: [LydiaTools/keep-every-cell](https://github.com/LydiaTools/keep-every-cell)) Browser-local review of a pipe-delimited Markdown table before Excel export. Flags uneven rows, keeps extra cells visible, and requires explicit repair before export. Text is the default column type. English/Chinese, offline-capable, MIT; early preview.
+
+
 ### Babelmark
 
 
