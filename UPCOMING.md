@@ -55,6 +55,8 @@
 
 **Glyph** (web: [`glyph-md.github.io`](https://glyph-md.github.io), github: [`hamidfzm/glyph` :octocat:](https://github.com/hamidfzm/glyph)) - native, cross-platform desktop app to view and edit folders of Markdown, with export to HTML, PDF, DOCX, and EPUB. GitHub Flavored Markdown, KaTeX math, Mermaid diagrams, wikilinks, and a graph view. Free & open source (MIT), built with Rust/Tauri.
 
+**trip2g** (web: [`trip2g.com`](https://trip2g.com), github: [`trip2g/trip2g` :octocat:](https://github.com/trip2g/trip2g)) - self-hosted server that publishes a folder of Markdown notes (an Obsidian vault, wikilinks included) as a website, with paid sections, Telegram publishing and an MCP endpoint for AI agents; single Go binary on SQLite, MIT
+
 
 ### Markdown to Email
 
