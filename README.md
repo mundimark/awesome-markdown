@@ -477,6 +477,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 ### Various Note Formats to Markdown
 
 - [Jimmy :octocat:](https://github.com/marph91/jimmy) - Convert your notes to Markdown
+- [Helicon](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-md) - Export the margin notes of a PDF or EPUB (iPad, iPhone) as Markdown
 
 ### LinkedIn / Career Data to Markdown
 
