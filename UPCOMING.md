@@ -93,6 +93,7 @@
 ### PDF / Office Documents to Markdown
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
+- [TransformPipe](https://transformpipe.com) ([source](https://github.com/raudarlabs/transformpipe)) - Free converter that runs in the browser: Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, HTML, CSV, JSON and Notion, Confluence or Obsidian exports to Markdown, and Markdown to a self-contained HTML page, Word, Confluence, Jira, Slack or EPUB. Signed out, nothing is uploaded. MIT.
 
 ### WordStar to Markdown
 
