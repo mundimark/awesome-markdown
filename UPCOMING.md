@@ -38,6 +38,9 @@
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
 
+**Glim** (github: [NeoPanic/Glim](https://github.com/NeoPanic/Glim)) macOS file viewer with Markdown preview, diagrams, formulas and basic UTF-8 text editing. Also previews PDF, data and source files. Free and open source (MIT); Apple Silicon and Intel builds.
+
+
 ### Babelmark
 
 
