@@ -2,6 +2,11 @@
 # Awesome Markdown - The Commercial Edition
 
 
+## Markdown Viewers
+
+- [Markdown File Viewer](https://markdownfileviewer.com) - free, client-side .md file viewer: open, paste or drag a Markdown file and it renders as formatted HTML in any browser. Includes Markdown-to-HTML export and a public GitHub README viewer. No upload, no install, no signup.
+
+
 ## Markdown Link Validation
 
 - [Markdown Link Checker](https://alltoolsverse.com/tools/markdown-link-checker/) - scan inline Markdown links, extract labels and destinations, and flag empty or malformed URLs. Runs locally in the browser with no signup.
