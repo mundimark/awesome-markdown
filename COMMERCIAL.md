@@ -21,6 +21,10 @@
 
 - [tweet.md](https://tweet.md) - Replace x.com with tweet.md in any post, article or profile URL - get back clean Markdown.
 
+### AI Chat to Markdown
+
+- [Chat2Doc](https://chat2doc.net/en), [(Chrome Web Store)](https://chromewebstore.google.com/detail/chat2doc-export-chatgpt-c/flbloaboghdiopaaeoomicenhbmgjaih) - browser extension that exports ChatGPT, Claude, Gemini, DeepSeek and Grok chats to Markdown (also PDF, Word, JSON, CSV). Freemium.
+
 ## Markdown to Portable Document Format (PDF)
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
