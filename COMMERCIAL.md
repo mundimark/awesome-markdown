@@ -23,6 +23,7 @@
 
 ## Markdown to Portable Document Format (PDF)
 
+- [DraftDeck](https://draftdeck.tanfujun.com/) - turn Markdown headings, paragraphs and manual page breaks into LinkedIn carousel PDFs locally in your browser. Limited Markdown support; PDF pages are images. Free PDF export without an account, with optional paid Pro.
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
 
