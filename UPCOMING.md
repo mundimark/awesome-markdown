@@ -93,6 +93,7 @@
 ### PDF / Office Documents to Markdown
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
+- [to-markdown :octocat:](https://github.com/Cognipeer/to-markdown), [(npm Package)](https://www.npmjs.com/package/@cognipeer/to-markdown) - MIT-licensed TypeScript library that converts PDF, DOCX, DOC, XLSX, PPTX, HTML, EPUB, notebooks and images to Markdown, with optional OCR for scanned PDFs
 
 ### WordStar to Markdown
 
