@@ -9,9 +9,9 @@
 
 ### Markdown Libraries & Tools
 
+**Markdown Logic** (express web: [markdownlogic.com](https://markdownlogic.com/) (app web: [app.markdownlogic.com](https://app.markdownlogic.com/), npm: [https://www.npmjs.com/package/mdlogic] Free and Paid Markdown-centric editing, management, and sync tool with web, AI/MCP, AI, and CLI access to your content. It imports different file types, renders structured data such as SBOM, OpenAPI, and others, and shares/exports in multiple formats. Supports git repository syncing and exporting your projects as a git repo as well. Collaborate, share, and integrate in a markdown-centric workflow.
 
 **Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
-
 
 **mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
