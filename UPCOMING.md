@@ -93,6 +93,7 @@
 ### PDF / Office Documents to Markdown
 
 - [FolioMD](https://foliomd.es) - Free online PDF to Markdown converter with OCR, table extraction, and image support.
+- [Markovo](https://markovo.net) [:octocat:](https://github.com/fisher-byte/markovo) - hosted PDF, DOCX, PPTX, XLSX and authorized public-page to Markdown conversion; Web/API access plus MIT-licensed CLI/MCP clients, with account Credits and a monthly free tier.
 
 ### WordStar to Markdown
 
