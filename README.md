@@ -477,6 +477,7 @@ a free web alternative to PowerPoint and Keynote in Ruby
 ### Various Note Formats to Markdown
 
 - [Jimmy :octocat:](https://github.com/marph91/jimmy) - Convert your notes to Markdown
+- [Koru :octocat:](https://github.com/koruworks/mono) - open-source, local-first notes workspace (Rust, MPL-2.0) that imports Evernote (.enex), Notion, OneNote and TextBundle notes and exports them to Markdown or TextBundle
 
 ### LinkedIn / Career Data to Markdown
 
