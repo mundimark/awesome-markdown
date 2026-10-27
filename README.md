@@ -414,6 +414,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 **markdeep-slides** (github: [markdeep-slides](https://github.com/doersino/markdeep-slides)) - Browser-side rendering of Markdown as slide deck
 
+**SliDesk** (github: [`slidesk`](https://github.com/slidesk/slidesk)) - Markdown slides with native translations and file includes. Present with a speaker view on your phone, export to PDF or PowerPoint. A single binary, no build step.
+
 ### Markdown to Portable Document Format (PDF)
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
