@@ -16,6 +16,7 @@
 ### PDF to Markdown
 
 - [pdfmarkdown.app](https://pdfmarkdown.app) - free, in-browser PDF to Markdown converter; keeps tables, formulas and images, with side-by-side output you can check. No upload, no signup. Also Markdown to PDF.
+- [PDF to Markdown Converter](https://apify.com/plainrecordlabs/docs-to-markdown) - hosted converter on Apify that turns links to PDF, Word, PowerPoint, Excel and HTML files into Markdown, one row per document, with optional chunks for RAG. PDF tables drawn with ruling lines become Markdown tables. No OCR. Paid per document.
 
 ### Social Media to Markdown
 
