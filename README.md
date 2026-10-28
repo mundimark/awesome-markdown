@@ -482,6 +482,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [linkedin2md :octocat:](https://github.com/juanmanueldaza/linkedin2md), [:snake:](https://pypi.org/project/linkedin2md/) - zero-dependency Python CLI to convert LinkedIn data export ZIPs into clean, structured Markdown files optimized for LLM analysis; optional PDF resume generation via `--pdf`
 
+### AI Chat Conversations to Markdown
+
+- [ai-chat-share-export :octocat:](https://github.com/xiaobin7060/ai-chat-share-export), [(npm Package)](https://www.npmjs.com/package/ai-chat-share-export) - convert public ChatGPT share links to Markdown or JSON; keeps tables, code blocks and LaTeX math; zero-dependency Node.js CLI and library
+
 ### Hypertext Markup Language (HTML) to Markdown
 
 Ruby
