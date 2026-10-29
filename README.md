@@ -323,6 +323,9 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx), [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 
+**Splat**
+(github: [Splat :octocat:](https://github.com/sventmueller/splat)) Native macOS Markdown editor (in Rust) with a live preview you can edit directly; every edit in the preview becomes the smallest change to the Markdown source. Renders LaTeX and Mermaid, Graphviz and PlantUML diagrams offline.
+
 ### Babelmark
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
