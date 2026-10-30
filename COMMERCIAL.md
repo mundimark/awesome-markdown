@@ -23,6 +23,7 @@
 
 ## Markdown to Portable Document Format (PDF)
 
+- [CurlShot](https://curlshot.com) - screenshot API that also renders Markdown: send Markdown (or a URL or HTML) in one HTTP request and get back a PDF or a PNG, JPEG or WebP image. Free plan with 100 screenshots a month, no card; paid plans after.
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
 
