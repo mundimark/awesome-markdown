@@ -11,6 +11,7 @@
 
 ### Hypertext Markup Language (HTML) to Markdown
 
+- [imread](https://imread.org/) - extract readable articles from public URLs as Markdown or plain text. Free web reader with a keyless REST API and remote MCP server.
 - [Minibase](https://www.minibase.md), [(Chrome Web Store)](https://chromewebstore.google.com/detail/mamnlljnkigkhppbjhmpdeocobcbobdp) - one-click browser extension (Chrome and Firefox) that turns any webpage into clean Markdown using AI. Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS and Windows companion app (Minibase Vault) stores saves locally and exposes them to Claude via MCP. (formerly Save)
    
 ### PDF to Markdown
