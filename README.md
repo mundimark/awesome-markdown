@@ -323,6 +323,9 @@ Is extensible with [plugins](https://www.npmjs.com/search?q=keywords:markdown-it
 **markdown-to-jsx**
 (web: [markdown-to-jsx.quantizor.dev](https://markdown-to-jsx.quantizor.dev), github: [markdown-to-jsx :octocat:](https://github.com/quantizor/markdown-to-jsx), [npm](https://www.npmjs.com/package/markdown-to-jsx)) A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 
+**smd**
+(github: [smd :octocat:](https://github.com/ryanlewis/smd), brew: `ryanlewis/tap/smd`) A markdown reader for the terminal, written in Rust. It draws mermaid diagrams, display maths and headings as images using the kitty graphics protocol, and keeps the rest as text you can select. Supports GFM tables, Obsidian callouts, wiki links and embeds, and footnotes, and reloads the file when it changes.
+
 ### Babelmark
 
 - [Babelmark 2]() - a tool for comparing the output of various implementations of Markdown syntax
