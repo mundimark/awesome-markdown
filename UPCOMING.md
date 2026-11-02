@@ -9,6 +9,8 @@
 
 ### Markdown Libraries & Tools
 
+**MarkIndex**  (github: [jackjin1997/markindex](https://github.com/jackjin1997/markindex), npm: [markindex](https://www.npmjs.com/package/markindex)) Vectorless, structure-first retrieval for Markdown libraries (in TypeScript): parses each file into a section tree, adds mixed Chinese/English BM25 search, and exposes the result as a library, CLI and MCP server so agents can navigate to a section and cite original line numbers.
+
 
 **Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
 
