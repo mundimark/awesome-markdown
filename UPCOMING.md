@@ -98,6 +98,10 @@
 
 ### Various Note Formats to Markdown
 
+**Memo Export**  (web: [stanczykwyatt.github.io/memo-export](https://stanczykwyatt.github.io/memo-export/), github: [stanczykwyatt/memo-export](https://github.com/stanczykwyatt/memo-export)) Free, open-source Mac menu bar app that exports Voice Memos recordings as Markdown notes with timestamped transcripts next to the audio, adding only new memos each run.
+
+**Reading List Export**  (web: [stanczykwyatt.github.io/reading-list-export](https://stanczykwyatt.github.io/reading-list-export/), github: [stanczykwyatt/reading-list-export](https://github.com/stanczykwyatt/reading-list-export)) Free, open-source Mac menu bar app that exports the Safari Reading List as a Markdown checklist, read and unread, with each page's preview text.
+
 
 ### Hypertext Markup Language (HTML) to Markdown
 
