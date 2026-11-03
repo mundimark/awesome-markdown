@@ -9,6 +9,7 @@
 
 ### Markdown Libraries & Tools
 
+**Markdown Logic** (web: [markdownlogic.com](https://markdownlogic.com/), app: [app.markdownlogic.com](https://app.markdownlogic.com/)) Markdown content creation and management platform with API, CLI, and AI interfaces, version control, team management, and templated exports. Supports structured data conversion (SBOM, VEX, OpenAPI, etc.) files into markdown with smart filters and clean rendering and share options. Mobile app for offline and edit sync, MCP services for agent collaboration.
 
 **Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
 
