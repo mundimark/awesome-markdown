@@ -469,9 +469,9 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [doc2md :octocat:](https://github.com/orangefineblue/doc2md) - high-fidelity PDF, DOCX, and PPTX to Markdown conversion pipeline with multi-extractor support (pymupdf, pdfplumber, MinerU), image extraction, per-image classification, and multi-stage quality control
 
-- [DocMD](https://hackthehydra.com) - free in-browser PDF, Word (DOCX), Excel/CSV and image (OCR) to Markdown converters; files are processed locally and never uploaded. Open source ([document-tools :octocat:](https://github.com/extascorp-afk/document-tools)), with optional pay-per-use APIs for bulk conversion.
-
 - [file2markdown.ai](https://file2markdown.ai) - AI-powered converter that turns PDFs, Word docs, and images into clean structured Markdown. Optimized for RAG pipelines and Obsidian. Free tier available (20 conversions/day).
+
+- [Hack the Hydra](https://hackthehydra.com) - free in-browser PDF, Word (DOCX), Excel/CSV and image (OCR) to Markdown converters; files are processed locally and never uploaded. Open source ([document-tools :octocat:](https://github.com/extascorp-afk/document-tools)), with optional pay-per-use APIs for bulk conversion.
 
 ### WordStar to Markdown
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
