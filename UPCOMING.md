@@ -99,6 +99,10 @@
 ### Various Note Formats to Markdown
 
 
+**TopicSplit** (web: [`andrwspt.github.io/topicsplit`](https://andrwspt.github.io/topicsplit/), open source @ github [`andrwspt/topicsplit`](https://github.com/andrwspt/topicsplit)) —
+Free offline semantic text grouper. Splits pasted text into topic segments by **meaning**, not word count. Uses lexical cohesion (shared content words between adjacent sentences) to find where topics actually change. Perfect for Obsidian, Logseq, Notion, PKM workflows, researchers, and writers. 100% browser-side, no server, no API key, no tracking. Output is clean `### Topic N` markdown. MIT licensed.
+
+
 ### Hypertext Markup Language (HTML) to Markdown
 
 
