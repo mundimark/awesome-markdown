@@ -38,6 +38,11 @@
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
 
+
+**doc2md-lite**  (GitHub: [tidybytetools/doc2md-lite](https://github.com/tidybytetools/doc2md-lite), PyPI: [doc2md-lite](https://pypi.org/project/doc2md-lite/)) Free CLI and MCP server that turns local text PDFs and HTML files into clean Markdown. Tables stay as real Markdown tables. Runs on your computer; MIT.
+
+**md-chunk-lite**  (GitHub: [tidybytetools/md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite), PyPI: [md-chunk-lite](https://pypi.org/project/md-chunk-lite/)) Free CLI and MCP server that splits Markdown into chunks by heading. Each chunk keeps its heading path and line numbers for RAG and AI helpers. Runs locally; MIT.
+
 ### Babelmark
 
 
