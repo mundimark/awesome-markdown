@@ -21,6 +21,10 @@
 
 - [tweet.md](https://tweet.md) - Replace x.com with tweet.md in any post, article or profile URL - get back clean Markdown.
 
+## Markdown to Website / Blog
+
+- [dochost](https://dochost.io) - paste Markdown or HTML, or upload a `.md` / `.html` file, and get back a public shareable link, with a live GitHub-flavored preview before you publish. No signup needed; free links expire after 7 days, paid links are permanent. Freemium. Published pages are served script-free from a separate cookieless domain, so pasted markup cannot run in a reader's session. Also available as a Chrome/Edge extension, a Telegram bot, and an MCP server.
+
 ## Markdown to Portable Document Format (PDF)
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
