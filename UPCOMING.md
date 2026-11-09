@@ -37,6 +37,8 @@
 
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
+**Folio**  (web: [jakubro.github.io/folio](https://jakubro.github.io/folio/), github: [jakubro/folio](https://github.com/jakubro/folio), npm: [@jakubro/folio](https://www.npmjs.com/package/@jakubro/folio)) Serves a folder of markdown and data files to the browser as live pages. It runs locally with `npx @jakubro/folio <folder>`. Renders GitHub-flavoured markdown, math, highlighted code, Mermaid diagrams and Vega-Lite charts; a page updates when its file is saved, and what changed since the reader last read it is marked block by block. Data files (CSV, TSV, JSON, JSON Lines, Parquet, SQLite, DuckDB, YAML) open as tables, and documents can embed tables, charts, values and SQL queries over them. It is a viewer, not an editor: it never edits documents. Also ships an MCP server, a language server and `folio check` for CI. GPL-3.0-only.
+
 
 ### Babelmark
 
