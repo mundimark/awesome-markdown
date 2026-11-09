@@ -67,6 +67,8 @@
 
 **MDMagic** (web: https://mdmagic.ai, github: https://github.com/MDMagic-MCP/mdmagic-mcp-server) - convert Markdown to Word, PDF, and HTML using your own Word templates - letterhead, fonts, branding applied automatically. Web app + MCP server for Claude, Cursor, OpenClaw, and any MCP-compatible AI assistant. Freemium.
 
+**Markview** (github: [szdytom/markview](https://github.com/szdytom/markview)) Publication-quality Markdown to PDF and PNG, from the command line or from the reader. Text stays selectable and searchable as vector glyph runs with subset fonts and a character map, links become clickable annotations, headings travel with the block they introduce, a paragraph keeps two lines on each side of a page break, and a table too wide for the page is scaled down. Fast: one 10 KiB document to PDF takes 0.04 s and one 100 KiB document 0.10 s, against 0.48 s and 0.72 s for pandoc with Typst and 1.89 s and 2.16 s for XeLaTeX on the same host. 11-15 MB install, with no browser, no print dialog and no TeX process to install; `--watch` re-exports whenever the document or a local image changes. Two exports of one document are byte for byte identical. Linux, Windows and macOS. MIT licensed, written in Rust.
+
 
 ### Markdown Styles / Documents / Pages
 
