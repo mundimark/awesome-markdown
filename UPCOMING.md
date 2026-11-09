@@ -9,6 +9,9 @@
 
 ### Markdown Libraries & Tools
 
+**markupmarkdown**  (web: [mumd.metavert.io](https://mumd.metavert.io), github: [jonradoff/markupmarkdown](https://github.com/jonradoff/markupmarkdown)) "Google Docs for Markdown" — collaborative review & editing for `.md` files: anchored comment threads, suggested changes with one-click apply, review states, document checks, and GitHub round-trip (open any repo's Markdown, push edits back as a PR). Includes an MCP server so AI agents can review documents alongside humans. MIT licensed, built with Go + React.
+
+
 
 **Markstream Vue** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), github: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) Vue 3 Markdown renderer for AI/chat streaming. It renders incomplete, token-by-token Markdown with low-jitter updates and supports Mermaid, KaTeX, syntax-highlighted code, safe HTML, SSR, and long responses. MIT-licensed.
 
