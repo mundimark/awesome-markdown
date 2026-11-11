@@ -471,6 +471,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 - [file2markdown.ai](https://file2markdown.ai) - AI-powered converter that turns PDFs, Word docs, and images into clean structured Markdown. Optimized for RAG pipelines and Obsidian. Free tier available (20 conversions/day).
 
+- [sugo :octocat:](https://github.com/Muralnick/sugo) - offline converter that turns PDFs, scans, screenshots and Office files into compact Markdown for RAG and LLMs, with built-in OCR and no network access at conversion time
+
 ### WordStar to Markdown
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
 
