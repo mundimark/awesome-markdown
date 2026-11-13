@@ -100,6 +100,7 @@ Generated with [markedpp](#markedpp). Get [nodejs](https://nodejs.org) first
 * [Convert to Markdown Tools](#convert-to-markdown-tools)
   * [Microsoft Word to Markdown](#microsoft-word-to-markdown)
   * [PDF / Office Documents to Markdown](#pdf--office-documents-to-markdown)
+  * [Spreadsheets (Excel / CSV / TSV) to Markdown](#spreadsheets-excel--csv--tsv-to-markdown)
   * [WordStar to Markdown](#wordstar-to-markdown)
   * [Hypertext Markup Language (HTML) to Markdown](#hypertext-markup-language-html-to-markdown)
   * [Source Code to Markdown](#source-code-to-markdown)
@@ -470,6 +471,10 @@ a free web alternative to PowerPoint and Keynote in Ruby
 - [doc2md :octocat:](https://github.com/orangefineblue/doc2md) - high-fidelity PDF, DOCX, and PPTX to Markdown conversion pipeline with multi-extractor support (pymupdf, pdfplumber, MinerU), image extraction, per-image classification, and multi-stage quality control
 
 - [file2markdown.ai](https://file2markdown.ai) - AI-powered converter that turns PDFs, Word docs, and images into clean structured Markdown. Optimized for RAG pipelines and Obsidian. Free tier available (20 conversions/day).
+
+### Spreadsheets (Excel / CSV / TSV) to Markdown
+
+- [ExcelToMarkdown](https://exceltomarkdown.com) - In-browser converter from Excel (.xlsx, .xls), CSV, and TSV spreadsheets to clean GitHub Flavored Markdown tables.
 
 ### WordStar to Markdown
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - convert WordStar (.ws) into Markdown (.md) files
