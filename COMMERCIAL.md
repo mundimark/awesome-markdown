@@ -16,6 +16,7 @@
 ### PDF to Markdown
 
 - [pdfmarkdown.app](https://pdfmarkdown.app) - free, in-browser PDF to Markdown converter; keeps tables, formulas and images, with side-by-side output you can check. No upload, no signup. Also Markdown to PDF.
+- [Boring Web PDF to Markdown](https://boring-web.com/pdf-to-markdown) - free, in-browser PDF to Markdown converter (pdf.js); rebuilds headings, lists and code blocks and strips page numbers and running headers. No upload, no signup.
 
 ### Social Media to Markdown
 
@@ -25,6 +26,7 @@
 
 - [MarkDone](https://markdone.dev/markdown-to-pdf/) - convert Markdown to PDF locally in your browser with live preview, tables, code blocks, and Mermaid diagrams. No upload, no account needed. Freemium.
 - [pdfmarkdown.app](https://pdfmarkdown.app/markdown-to-pdf) - convert Markdown to PDF in your browser with a side-by-side live preview and themes; tables, code blocks, math (LaTeX) and images all render, and you can import a .zip of Markdown files and images. No upload, no signup. Free. Also PDF to Markdown.
+- [Boring Web Markdown to PDF](https://boring-web.com/markdown-to-pdf) - Markdown to PDF in your browser with live preview, three themes, code highlighting and Mermaid diagrams; downloads a real PDF with selectable text. No upload, no signup, no watermark. Free.
 
 ## Mermaid Diagrams to Portable Document Format (PDF)
 
