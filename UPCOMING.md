@@ -37,6 +37,8 @@
 
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
+**Changelog to release notes**  (web: [release-ripple-roadmap.lovable.app/tools/github-action](https://release-ripple-roadmap.lovable.app/tools/github-action), github: [kalmwerk/release-notes-action](https://github.com/kalmwerk/release-notes-action)) Free GitHub Action that turns the matching version section of a Markdown `CHANGELOG.md` (Keep a Changelog, conventional-changelog, changesets, or any file with a version in each release heading) into the GitHub release notes, breaking changes first with their migration steps. With no changelog it writes the notes in Markdown from Conventional Commits since the last tag. Runs inside your workflow, no API key. MIT-licensed.
+
 
 ### Babelmark
 
