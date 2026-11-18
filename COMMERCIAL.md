@@ -11,6 +11,8 @@
 
 ### Hypertext Markup Language (HTML) to Markdown
 
+- [MD Convert Paste to Markdown](https://mdconvert.net/paste-to-markdown) - free browser tool that converts copied web rich text, including lists, links and simple tables, into Markdown; no account required. Plain-text-only pastes do not reconstruct formatting.
+
 - [Minibase](https://www.minibase.md), [(Chrome Web Store)](https://chromewebstore.google.com/detail/mamnlljnkigkhppbjhmpdeocobcbobdp) - one-click browser extension (Chrome and Firefox) that turns any webpage into clean Markdown using AI. Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS and Windows companion app (Minibase Vault) stores saves locally and exposes them to Claude via MCP. (formerly Save)
    
 ### PDF to Markdown
