@@ -37,6 +37,8 @@
 
 **wiki** (web: [docs.plasma.ai/wiki](https://docs.plasma.ai/wiki), github: [plasma-ai/wiki](https://github.com/plasma-ai/wiki), pypi: [plasma-wiki](https://pypi.org/project/plasma-wiki/)) Python CLI and Agent Skill for building and maintaining indexed Markdown knowledge bases. Generates deterministic hierarchical indexes and cross-links, with scoped map, search, read, update, and lint workflows. Apache-2.0.
 
+**flowdown** (web: [flowdown.localix.ai](https://flowdown.localix.ai), github: [localixai/flowdown](https://github.com/localixai/flowdown), npm: [@localix-ai/flowdown](https://www.npmjs.com/package/@localix-ai/flowdown)) Streaming Markdown parser and renderer for React and AI replies, with its own parser and no dependencies. GitHub Flavored Markdown plus steps, tabs, callouts, diagrams and math; renders on a page or in a terminal. A Rust crate in the same repository reads the same dialect. TypeScript and Rust, MIT-licensed.
+
 
 ### Babelmark
 
