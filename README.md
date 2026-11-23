@@ -426,6 +426,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 **The Zen of Page Designs**
 (github: [`pagedesigns`](https://github.com/pagedesigns))
 
+- [md-converter](https://md-converter.designs-os.com) [:octocat:](https://github.com/jedbjorn/md-converter) - web app that renders themed Markdown into styled, shareable HTML documents, with nine themes, share links and standalone HTML export
+
 
 ### Markdown to Books
 
