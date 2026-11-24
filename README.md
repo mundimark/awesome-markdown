@@ -414,6 +414,8 @@ a free web alternative to PowerPoint and Keynote in Ruby
 
 **markdeep-slides** (github: [markdeep-slides](https://github.com/doersino/markdeep-slides)) - Browser-side rendering of Markdown as slide deck
 
+**Inplain** (web: [inplain.app](https://inplain.app), github: [`io-oi-ai/inplain`](https://github.com/io-oi-ai/inplain)) - Renders the same Markdown as slides, a report or a dashboard and shares it as a live link; exports to PPTX, DOCX, XLSX or PDF. MIT-licensed CLI and MCP server ([`@inplain/cli`](https://www.npmjs.com/package/@inplain/cli)).
+
 ### Markdown to Portable Document Format (PDF)
 
 - [markdown-pdf :octocat:](https://github.com/alanshaw/markdown-pdf), [(npm Package)](https://www.npmjs.com/package/markdown-pdf) -  converts Markdown files to PDFs
@@ -507,6 +509,7 @@ More
 
 - [heckyesmarkdown.com](http://heckyesmarkdown.com) - instantly convert a webpage to markdown; the service presents a simple interface that converts any reasonable web page into markdown (note: the service seems to use the Readability API to remove all the non-content cruft from the source page before proceeding with markdownification)
 - [Markdown Web Clipper :octocat:](https://github.com/Tigrandza/markdown-web-clipper) - free, MIT-licensed Chrome extension that converts any webpage to clean Markdown (tables, code blocks, math, footnotes) and saves it to a local folder, GitHub Gist, or the clipboard
+- [Web2MD](https://web2md.org) - Chrome and Firefox extension that converts any webpage into clean Markdown, stripping ads, menus and sidebars first; also ships a CLI ([web2md-cli](https://www.npmjs.com/package/web2md-cli)) and an MCP server ([web2md-mcp-server](https://www.npmjs.com/package/web2md-mcp-server)). Conversion engine is open source: [web2md :octocat:](https://github.com/io-oi-ai/web2md). Free tier: 3 conversions/day.
 
 ### Source Code to Markdown
 
