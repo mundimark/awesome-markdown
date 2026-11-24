@@ -109,6 +109,8 @@
 
 ### Screencast to Markdown
 
+**CleanTranscript / youtube-transcript-toolkit** (web: https://cleantranscript.com/youtube-to-markdown, github: https://github.com/zhaolinnan12/youtube-transcript-toolkit) - Convert YouTube caption tracks (`.json3`, `.srt`, `.vtt`) into clean Markdown with clickable timestamps and optional Obsidian YAML frontmatter; includes a zero-dependency Node.js CLI and a no-login browser exporter. MIT.
+
 ### JSON to Markdown
 
 ## Book Services
