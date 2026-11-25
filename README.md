@@ -379,6 +379,11 @@ makes developing websites simple (in Ruby)
 
 **markdown-pages.js** (github: [markdown-pages.js :octocat:](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of Markdown website
 
+**Synkk**
+(web: [`synkk.space`](https://synkk.space),
+ github: [`tawandajosephmutsena/synkk` :octocat:](https://github.com/tawandajosephmutsena/synkk)) –
+self-hosted Obsidian Markdown vault sync server, web editor, and live searchable Markdown portal publisher (MIT)
+
 ### Markdown to Email
 
 **Markdown Here**
