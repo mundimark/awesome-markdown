@@ -111,6 +111,8 @@
 
 ### JSON to Markdown
 
+**Data Swiss Army** (web: [quietstack-labs.github.io/data-swiss-army](https://quietstack-labs.github.io/data-swiss-army/), github: [quietstack-labs/data-swiss-army](https://github.com/quietstack-labs/data-swiss-army)) Convert JSON, CSV and SQL INSERT dumps to GitHub Flavored Markdown tables, and Markdown tables back to JSON/CSV, in the browser. Escapes pipes and multi-line cells, auto-detects the input format and works offline. Zero dependencies, MIT.
+
 ## Book Services
 
 ## Protocol
