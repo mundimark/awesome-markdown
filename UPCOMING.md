@@ -70,6 +70,8 @@
 
 ### Markdown Styles / Documents / Pages
 
+**DocLoom** (web: [mojtabahasani.github.io/DocLoom](https://mojtabahasani.github.io/DocLoom/), github: [mojtabahasani/DocLoom](https://github.com/mojtabahasani/DocLoom)) Offline-first Markdown and bidirectional (`EN`/`FA`, `LTR`/`RTL`) document studio that compiles into a single self-contained HTML artifact (`< 900 KB` with embedded WOFF2 fonts), an installable PWA, and a Node.js CLI. Exports client-side OOXML `.docx`, print-ready PDF, interactive HTML, and slide decks, and includes zero-dependency pure-JS parsers for legacy binary `.xls` (`OLE2/BIFF8`), `.xlsx`, CSV, and coordinate-based FastReport `.fp3` reports. Open source under the MIT license.
+
 
 ### Markdown to Books
 
